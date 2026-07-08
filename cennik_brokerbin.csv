@@ -1,7 +1,10 @@
 part_number,manufacturer,condition,price,quantity,status,description
+90UU00L9PL,Lenovo,NEW,1080.56,1,ON-SITE,Lenovo Legion T5 26IRB8 Intel® Core™ i5 i5-14400F 32 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 4070 Windows 11 Home Tower PC Grey
 CP-9020270-EU,Corsair,NEW,128.39,37,ON-SITE,Corsair RM850x power supply unit 850 W 24-pin ATX ATX Black
 CP-9020271-EU,Corsair,NEW,162.97,19,ON-SITE,Corsair RMx Series RM1000x power supply unit 1000 W 24-pin ATX ATX Black
+40AF0135EU,Lenovo,NEW,152.3,21,ON-SITE,Lenovo 40AF0135EU notebook dock/port replicator Wired Black
 KBTB0-2,Vention,NEW,4.01,3,ON-SITE,"Vention 5-port cable organiser, 2 pcs, black"
+6AGC128175,ABB,NEW,542.69,11,ON-SITE,"ABB Terra AC W11-G5-R-V2-0 charging station: Terra AC wallbox 11 kW, Type 2, 5 m cable, 3-phase/16 A, with RFID, version 2"
 UAP-AC-PRO,UBIQUITI,NEW,136.39,152,ON-SITE,Ubiquiti UAP-AC-PRO wireless access point 1300 Mbit/s White Power over Ethernet (PoE)
 U6-IW,UBIQUITI,NEW,184.82,14,ON-SITE,Ubiquiti Unifi 6 In-Wall 4800 Mbit/s White Power over Ethernet (PoE)
 U6-Pro,UBIQUITI,NEW,157.32,296,ON-SITE,Ubiquiti U6-PRO wireless access point 4800 Mbit/s White Power over Ethernet (PoE)
@@ -180,6 +183,7 @@ NSM2,UBIQUITI,NEW,79.99,25,ON-SITE,Ubiquiti NanoStation M2 Network bridge White
 LBE-M5-23,UBIQUITI,NEW,43.36,36,ON-SITE,Ubiquiti LBE-M5-23 bridge/repeater 1x1 SISO 100 Mbit/s White
 Loco5AC,UBIQUITI,NEW,44.47,313,ON-SITE,Ubiquiti NanoStation 5AC Loco 1000 Mbit/s White Power over Ethernet (PoE)
 NBE-5AC-GEN2,UBIQUITI,NEW,88.92,41,ON-SITE,Ubiquiti NanoBeam 5AC Gen 2 Network bridge 450 Mbit/s White
+1200301021,ROSIWIT,NEW,294.8,10,ON-SITE,Rosiwit Pilot One Lite Battery for the cleaner
 WTM07,ALANTEC,NEW,1.92,16,ON-SITE,Alantec WTM07 network junction box Cat5e Silver
 WTM09,ALANTEC,NEW,2.27,81,ON-SITE,Alantec WTM09 network junction box Cat6 Silver
 WTM06,ALANTEC,NEW,1.65,43,ON-SITE,Alantec WTM06 network junction box Cat5e Black
@@ -380,6 +384,12 @@ MA-LEADER 5.5 WN,MARK ADLER,NEW,57.62,2,ON-SITE,Leader 5.5 WN desk
 MA-LEADER 7.0,MARK ADLER,NEW,106.93,1,ON-SITE,Leader 7.0 desk
 MA-LEADER 7.3 BLACK,MARK ADLER,NEW,106.93,2,ON-SITE,Electric desk Leader 7.3 Black
 25533,Trust,NEW,77.78,3,ON-SITE,TRUST GXT 712 Dynamus Desk
+GTab-SR/BS,Black shark,NEW,363.14,5,ON-SITE,"Black Shark Gaming Tablet 8.8"" 12/256GB 7300mAh Silver"
+GTab-BK/BS,Black shark,NEW,363.14,5,ON-SITE,"Black Shark Gaming Tablet 8.8"" 12/256GB 7300mAh Black"
+Pad7-BE/BS,Black shark,NEW,127.3,1,ON-SITE,"Black Shark Pad 7 4G 11"" 6/128GB 7700mAh Blue Tablet"
+Pad7-GY/BS,Black shark,NEW,127.3,1,ON-SITE,"Black Shark Pad 7 4G 11"" 6/128GB 7700mAh Gray Tablet"
+Pad7Pro-BK/BS,Black shark,NEW,162.14,3,ON-SITE,"Black Shark Pad 7 Pro 4G 11"" 6/256GB 8800mAh Black"
+Pad7Pro-BE/BS,Black shark,NEW,162.14,5,ON-SITE,"Black Shark Pad 7 Pro 4G 11"" 6/256GB 8800mAh Blue"
 05-50039-00,BROADCOM,NEW,118.79,1,ON-SITE,Broadcom CVPM05 Cache protection module
 05-50077-01,BROADCOM,NEW,898.11,9,ON-SITE,Broadcom MegaRAID 9560-8i RAID controller PCI Express x8 4.0 12 Gbit/s
 BCM957412A4120AC,BROADCOM,NEW,194.9,1,ON-SITE,Broadcom BCM957412A4120AC network card Internal 10000 Mbit/s
@@ -525,6 +535,69 @@ UA430C,TP-LINK,NEW,9.65,11,ON-SITE,TP-Link UA430C card reader USB 3.2 Gen 1 (3.1
 CLGB0,Vention,NEW,6.8,3,ON-SITE,Vention 2-in-1 USB 3.0 A Card Reader(SD+TF) Black Dual Drive Letter
 CCHH0,Vention,NEW,13.78,1,ON-SITE,Vention USB3.0 Multi-function Card Reader Gray Metal Type
 HAC-HDBW1500EA-A-0280B-S3-DIP,DAHUA,NEW,25.99,1,ON-SITE,Dahua Technology WizSense HAC-HDBW1500EA-A Dome IP security camera Indoor & outdoor 2880 x 1620 pixels Ceiling/wall
+DC15255_MDO_850+460-BDST,Dell,NEW,491.32,36,ON-SITE,"Dell 15 DC15255 Ryzen 5 7520U 15.6"" FHD 250 nits AG 8GB DDR5 512GB SSD Radeon 610M FgrPr WLAN+BT BcklKb 41Wh Windows 11 Pro 3-year Pro Support + Dell EcoLoop Essential Briefcase 14-16 ­ CC3624"
+PV15250_RPLU_004_P+570-AAIS,Dell,NEW,435.55,79,ON-SITE,"Dell Pro 15 Essential Core 3 100U 15.6"" FHD 120Hz 250 nits, 8GB DDR5 4400, 512GB SSD, Intel Graphics, 41Wh, Windows 11 Pro, Carbon Black + Dell Optical Mouse MS116 Black"
+DC16251_RPLU-R_002,Dell,NEW,1089.2,89,ON-SITE,"DELL DC16251 Intel Core 7 150U Laptop 40.6 cm (16"") Full HD+ 16 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce MX570A Wi-Fi 6E (802.11ax) Windows 11 Pro Platinum, Silver"
+450-AKQI,Dell,NEW,38.56,4,ON-SITE,DELL ADAPTER 90W 4.5MM BARREL AC KIT
+570-BBFX,Dell,NEW,43.36,1,ON-SITE,DELL MS700 mouse Travel Ambidextrous Bluetooth Optical 4000 DPI
+DC15255_MDO_851,Dell,NEW,447.75,5,ON-SITE,"DELL DC15255 AMD Ryzen™ 3 7320U Laptop 39.6 cm (15.6"") Full HD 8 GB LPDDR5-SDRAM 512 GB SSD Wi-Fi 5 (802.11ac) Windows 11 Pro UK International Black"
+482-BBDL,Dell,NEW,256.45,1,ON-SITE,DELL Dual Monitor Arm – MDA20
+482-BBCY,Dell,NEW,162.1,9,ON-SITE,DELL Pro Dual Monitor Stand - MDS19
+460-BDSS,Dell,NEW,18.52,53,ON-SITE,"DELL CP3724 40.6 cm (16"") Backpack Black"
+460-BDST,Dell,NEW,15.91,207,ON-SITE,DELL 14-16 EcoLoop Briefcase? - CC3624 (Pack 10 pcs)
+3400016759432.1_Latitude5455,Dell,NEW,847.13,9,ON-SITE,"Dell Latitude 5455 Snapdragon X Plus X1P-42-100 14.0"" FHD+ 16GB DDR5 512GB SSD Qualcomm Adreno Graphics FHD IR Camera Mic WLAN+BT Backlit Keyboard Windows 11 Pro 2-year warranty"
+545-BBDN,Dell,NEW,77.35,1,ON-SITE,Alienware AW720M mouse Gaming Ambidextrous RF Wireless + Bluetooth Optical 26000 DPI
+570-AAMH,Dell,NEW,10.68,89,ON-SITE,DELL WM126 mouse Ambidextrous RF Wireless Optical 1000 DPI
+545-BBFP,Dell,NEW,65.14,3,ON-SITE,Alienware Pro Wireless Gaming mouse Ambidextrous RF Wireless + USB Type-C Optical 26000 DPI
+545-BBFN,Dell,NEW,65.14,7,ON-SITE,Alienware Pro Wireless Gaming mouse Ambidextrous RF Wireless + USB Type-C Optical 26000 DPI
+BTO603_PB13255_EMEA,Dell,NEW,1442.83,2,ON-SITE,"DELL Pro 13 Plus PB13255 AMD Ryzen™ AI 5 340 Laptop 33.8 cm (13.3"") Full HD+ 32 GB LPDDR5x-SDRAM 1 TB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Aluminium"
+3400015983039.3,Dell,NEW,1328.88,18,ON-SITE,"Dell Precision 3590 Ultra 7 165H 15.6"" FHD IPS 400 nits AG 16GB DDR5 5600 512GB SSD RTX 500 4GB FHD camera 54Wh Windows 11 Pro 2-year ProSupport"
+BTO203_PA13250_EMEA,Dell,NEW,1500.78,1,ON-SITE,"DELL Pro 13 Premium PA13250 Copilot+ PC Intel Core Ultra 5 236V Laptop 33.8 cm (13.3"") Full HD+ 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Grey"
+BTO212_PB13250_EMEA_WWAN,Dell,NEW,1372.45,2,ON-SITE,"DELL Pro 13 Plus PB13250 Copilot+ PC Intel Core Ultra 7 266V Laptop 33.8 cm (13.3"") Full HD+ 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Silver"
+PV14250_RPLR_006,Dell,NEW,697.01,25,ON-SITE,"DELL Pro 14 Essential PV14250 Intel Core 5 220U Laptop 35.6 cm (14"") Full HD+ 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro English Silver"
+BTO201_PA14250_EMEA_WWAN,Dell,NEW,1428.23,1,ON-SITE,"Dell Pro 14 Premium PA14250 Ultra 5 236V 14.0"" FHD+ 300 nits 16GB LPDDR5X 512GB SSD Arc Graphics, Front Camera & Microphone, 5G WWAN + Bluetooth, Backlit Keyboard, 3-cell battery, vPro, Windows 11 Pro"
+BTO202_PA14250_EMEA_WWAN,Dell,NEW,1476.6,4,ON-SITE,"Dell Pro 14 Premium PA14250 Ultra 5 236V 14.0"" FHD+ 400 nits 16GB LPDDR5X 512GB SSD Arc Graphics, Front Camera & Microphone, 5G WWAN + Bluetooth, Backlit Keyboard, 3-cell battery, vPro, Windows 11 Pro"
+BTO016_PC14250_EMEA,Dell,NEW,1040.84,33,ON-SITE,"DELL Pro 14 PC14250 Intel Core 7 150U Laptop 35.6 cm (14"") Full HD+ 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro Black"
+BTO202_PA14250_EMEA,Dell,NEW,1234.52,6,ON-SITE,"DELL Pro 14 Premium PA14250 Copilot+ PC Intel Core Ultra 5 236V Laptop 35.6 cm (14"") Full HD+ 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Magnesium"
+BTO201_PA14250_EMEA,Dell,NEW,1193.35,8,ON-SITE,"DELL Pro 14 Premium PA14250 Intel Core Ultra 5 236V Laptop 35.6 cm (14"") Full HD+ 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Grey"
+PV14250_RPLR_004,Dell,NEW,435.55,50,ON-SITE,"DELL Pro 14 Essential PV14250 Intel Core 3 100U Laptop 35.6 cm (14"") Full HD+ 8 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro Platinum, Silver"
+PV14250_RPLR_002,Dell,NEW,675.23,9,ON-SITE,"DELL Pro 14 Essential PV14250 Intel Core 5 120U Laptop 35.6 cm (14"") Full HD+ 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro US International Platinum, Silver"
+3400018152067.3_PV14250 PlatSil,Dell,NEW,595.48,113,ON-SITE,"Dell Pro 14 Essential PV14250 Core i5 1200U 14.0"" WUXGA 300 nits AG 16GB DDR5 5200 512GB SSD Intel Graphics FGRPR WLAN+BT Backlit Keyboard 4-cell 65W Windows 11 Pro EDU Platinum Silver 4-year warranty"
+3400018152147.3_PV14250 CarbonB,Dell,NEW,588.07,49,ON-SITE,"Dell Pro 14 Essential PV14250 Core i5 1200U 14.0"" WUXGA 300 nits AG 16GB DDR5 5200 512GB SSD Intel Graphics FGRPR WLAN+BT Backlit Keyboard 4-cell 65W Windows 11 Pro EDU Carbon Black 4-year warranty"
+3400018152015.1_PV14250 Alu,Dell,NEW,636.65,33,ON-SITE,"Dell Pro 14 Essential PV14250 Core i5 1200U 14.0"" WUXGA 300 nits AG 16GB DDR5 5200 512GB SSD Intel Graphics FGRPR WLAN+BT Backlit Keyboard 4-cell 65W Windows 11 Pro EDU Aluminium Platinum Silver 4-yea"
+PV14250_RPLR_002+570-AAIR,Dell,NEW,643.84,31,ON-SITE,"Dell Pro 14 Essential PV14250 Core i5 1200U 14.0"" FHD+ 300 nits AG 16GB DDR5 5200 512GB SSD Intel Graphics FGRPR WLAN+BT Backlit Keyboard 54Wh Windows 11 Home Platinum Silver + Dell MS116 Mouse (Black"
+PV14250_RPLR_008,Dell,NEW,849.53,16,ON-SITE,"DELL Pro 14 Essential PV14250 Intel Core 7 150U Laptop 35.6 cm (14"") Full HD+ 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro US International Platinum, Silver"
+BTO208_PB14250_EMEA,Dell,NEW,1350.66,9,ON-SITE,"DELL Pro 14 Plus PB14250 Copilot+ PC Intel Core Ultra 7 266V Laptop 35.6 cm (14"") Full HD+ 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Aluminium"
+PV15250_RPLU_003_M+460-BDSS,Dell,NEW,653.43,21,ON-SITE,"Dell Pro 15 Essential i5-1334U 15.6"" FHD 120Hz 250 nits 16GB DDR5 4400 1TB SSD Intel UHD Graphics 1080p webcam 54Wh Windows 11 Pro Platinum Silver (Aluminium) 3-year warranty + Dell EcoLoop Backpack 1"
+PV15250_RPLU_003_M+570-AAIS,Dell,NEW,625.24,9,ON-SITE,"Dell Pro 15 Essential i5-1334U 15.6"" FHD 120Hz 250 nits 16GB DDR5 4400 1TB SSD Intel UHD Graphics 1080p webcam 54Wh Windows 11 Pro Platinum Silver (Aluminium) 3-year warranty + Dell Optical Mouse-MS11"
+PV15250_RPLU_003_M,Dell,NEW,631.64,92,ON-SITE,"DELL Pro 15 Essential PV15250 Intel® Core™ i5 i5-1334U Laptop 39.6 cm (15.6"") Full HD 16 GB DDR5-SDRAM 1 TB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro Platinum, Silver"
+PV15250_RPLU_005_P,Dell,NEW,563.88,193,ON-SITE,"DELL Pro 15 Essential PV15250 Intel® Core™ i5 i5-1334U Laptop 39.6 cm (15.6"") Full HD 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro Black"
+PV15250_RPLU_007_P,Dell,NEW,704.41,13,ON-SITE,"DELL Pro 15 Essential PV15250 Intel® Core™ i7 i7-1355U Laptop 39.6 cm (15.6"") Full HD 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro Black"
+PV15250_RPLU_004_P,Dell,NEW,422.47,108,ON-SITE,"DELL Pro 15 Essential PV15250 Intel Core 3 100U Laptop 39.6 cm (15.6"") Full HD 8 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro Black"
+PV15250_RPLU_001_P+570-AAIR,Dell,NEW,500.91,59,ON-SITE,"Dell Pro 15 Essential PV15250 i5-1334U 15.6"" FHD 120Hz 250 nits AG 8GB DDR5 5200 SSD 512GB Intel UHD Graphics FGRPR WLAN+BT BcklKb Windows 11 Pro + Dell MS116 Mouse Black 3-Year Pro Support Carbon Bla"
+PV15250_RPLU_001_P,Dell,NEW,496.12,99,ON-SITE,"DELL Pro 15 Essential PV15250 Intel® Core™ i5 i5-1334U Laptop 39.6 cm (15.6"") Full HD 8 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro Black"
+PV15255_MDO_851,Dell,NEW,435.55,25,ON-SITE,"DELL PV15255 AMD Ryzen™ 3 7320U Laptop 39.6 cm (15.6"") Full HD 8 GB LPDDR5-SDRAM 512 GB SSD Wi-Fi 5 (802.11ac) Windows 11 Pro Black"
+PV15255_MDO_850,Dell,NEW,455.16,10,ON-SITE,"DELL PV15255 AMD Ryzen™ 5 7520U Laptop 39.6 cm (15.6"") Full HD 8 GB LPDDR5-SDRAM 512 GB SSD Wi-Fi 5 (802.11ac) Windows 11 Pro Black"
+BTO211_PB16250_EMEA,Dell,NEW,1345.87,3,ON-SITE,"DELL Pro 16 Plus PB16250 Copilot+ PC Intel Core Ultra 7 266V Laptop 40.6 cm (16"") Touchscreen Full HD+ 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Aluminium"
+210-BRFQ,Dell,NEW,169.3,250,ON-SITE,DELL WD25 Wired USB 3.2 Gen 2 (3.1 Gen 2) Type-C Black
+BTO111_MC14250_EMEA,Dell,NEW,1319.28,1,ON-SITE,"DELL Pro Max 14 MC14250 Intel Core Ultra 7 255H Mobile workstation 35.6 cm (14"") Full HD+ 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Black"
+BTO118_MC14250_EMEA,Dell,NEW,1350.66,1,ON-SITE,"DELL Pro Max 14 MC14250 Intel Core Ultra 7 265H Mobile workstation 35.6 cm (14"") Full HD+ 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro UK International Black"
+BTO502_QCM1255_EMEA,Dell,NEW,622.06,4,ON-SITE,DELL Pro QCM1255 AMD Ryzen™ 3 PRO 8300GE 8 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Micro PC Mini PC Black
+BTO005_QVS1260_EMEA,Dell,NEW,762.38,28,ON-SITE,DELL Pro QVS1260 Intel® Core™ i5 i5-14400 16 GB DDR5-SDRAM 1 TB SSD Windows 11 Pro Slim PC PC Black
+BTO003_QVS1260_EMEA,Dell,NEW,636.65,46,ON-SITE,DELL Pro QVS1260 Intel® Core™ i5 i5-14400 8 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Slim PC PC Black
+BTO003_QVS1260_EMEA+DW316,Dell,NEW,629.25,27,ON-SITE,Dell Pro Slim Essential QVS1260 i5-14400 8GB 4800 512GB SSD Intel UHD 730 WLAN+BT Keyboard+Mouse Windows 11 Pro + USB DVD Drive-DW316 3-year Pro Support
+BTO004B_QVS1260_EMEA,Dell,NEW,752.78,30,ON-SITE,DELL Pro QVS1260 Intel® Core™ i5 i5-14500 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Slim PC PC Black
+BTO110_QCT1250_EMEA,Dell,NEW,835.15,16,ON-SITE,DELL Pro QCT1250 Intel Core Ultra 7 265 8 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Tower PC Black
+BTO503_QCT1255_EMEA,Dell,NEW,609.86,3,ON-SITE,DELL Pro QCT1255 AMD Ryzen™ 3 8300G 8 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Tower PC Black
+580-AJRP,Dell,NEW,35.73,61,ON-SITE,DELL KM5221W keyboard RF Wireless QWERTY US International Black
+580-AJRC,Dell,NEW,35.73,201,ON-SITE,DELL KM5221W keyboard RF Wireless QWERTY US International Black
+PV15250_RPLU_001_P_460-BDST,Dell,NEW,534.91,20,ON-SITE,Dell Pro15 PV15250 i5-1334 15.6 8 512 W11P+460-BDST
+3400017757850.1_PRO MAX SLIM,Dell,NEW,1515.38,2,ON-SITE,Dell ProMaxSlim FCS1250 Ultra 7 265 32GB DDR5 5600 1TB SSD RTX A1000_8GB Windows 11 Pro 2-year warranty
+ECT1250_RPLS_R-013,Dell,NEW,520.3,33,ON-SITE,DELL ECT1250 Intel® Core™ i3 i3-14100 8 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Tower PC Black
+BTO005B_QVT1260_EMEA,Dell,NEW,762.38,2,ON-SITE,DELL Pro QVT1260 Intel® Core™ i5 i5-14500 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Desktop PC Black
+570-AAIR,Dell,NEW,10.68,335,ON-SITE,DELL MS116 mouse Ambidextrous USB Type-A Optical 1000 DPI
+580-AKFZ,Dell,NEW,21.57,209,ON-SITE,DELL KM3322W keyboard Mouse included RF Wireless US International Black
+520-BBDH,Dell,NEW,56.43,3,ON-SITE,DELL HE324 Cushion/ring set
 X600/USB4/B/BB/BOX,Asrock,NEW,163.71,8,ON-SITE,DESKMINI ASROCK X600/USB4/B/BB/BOX
 NA-FK1,noctua,NEW,15.87,1,ON-SITE,"Additional computer fan NOCTUA NA-FK1, 1700 PWM, 120 mm"
 GATA-1746,Ducky,NEW,67.0,1,ON-SITE,Ducky One 3 Yellow Mini Gaming Tastatur RGB LED - MX-Clear US keyboard USB US English
@@ -613,6 +686,7 @@ ESET/SOF/EHSP/000/SER 3U 12M/N,ESET,NEW,47.22,1,ON-SITE,ESET HOME Security Premi
 ESET/SOF/EHSP/000/SER 3U 12M/R,ESET,NEW,47.22,2,ON-SITE,ESET HOME Security Premium ESD 3U 12M
 ESET/SOF/ENA/000/SER 1U 12M/N,ESET,NEW,22.69,21,ON-SITE,ESET NOD32 Antivirus Anti-virus software Base license (1 PC / 1 year)
 ESET/SOF/ENA/000/SER 1U 24M/N,ESET,NEW,45.43,3,ON-SITE,ESET NOD32 Antivirus Anti-virus software Base license (1 PC / 2 years)
+ZG38C05989,Lenovo,NEW,26.58,7,ON-SITE,"Lenovo ZG38C05989 tablet case 32.3 cm (12.7"") Folio Green"
 T/LZ09-CLA015/0000,Ever,NEW,9.11,43,ON-SITE,Ever CLASSIC Black 5 AC outlet(s) 250 V 1.5 m
 T/LZ09-CLA030/0000,Ever,NEW,10.18,16,ON-SITE,Ever CLASSIC 3m Black 5 AC outlet(s) 250 V
 T/LZ09-CLA050/0000,Ever,NEW,12.06,30,ON-SITE,Ever T/LZ09-CLA050/0000 Surge protector Power strip Black 5 sockets
@@ -620,6 +694,7 @@ W/OP-ZA00-0002/00,Ever,NEW,54.94,5,ON-SITE,Rack Kit for UPS EVER RT 800-1200 mm 
 W/SRTLRT-002K00/00,Ever,NEW,680.71,3,ON-SITE,Ever SINLINE RT 2000 Line-Interactive 2 kVA 1650 W 8 AC outlet(s)
 W/SRTLRT-003K00/00,Ever,NEW,782.55,5,ON-SITE,Ever SINLINE RT 3000 Line-Interactive 3 kVA 2250 W 8 AC outlet(s)
 KN-3211-01-EU,Keenetic,NEW,23.86,2,ON-SITE,Keenetic Buddy 4 (KN-3211) Mesh-Capable N300 Wi-Fi Range Extender with Fast Ethernet Port
+ASW_13K-LT-G2_PRO,Solplanet,NEW,636.98,1,ON-SITE,"Solplanet Inverter // ASW_13K-LT-G2_Pro, 3-phase, 13kW, 2 MPTT 32/20A, DC disconnector, Wi-Fi communication, RS485, 4G option, DC surge protective device type II"
 25195,Trust,NEW,13.4,1,ON-SITE,"Trust Primo - privacy filter for 15.6"" (39.6 cm) laptop"
 USGFLEX100H-EU0101F,ZyXEL,NEW,574.86,7,ON-SITE,Zyxel USG FLEX 100H hardware firewall 3 Gbit/s
 USGFLEX100H-EU0102F,ZyXEL,NEW,635.2,5,ON-SITE,Zyxel USGFLEX100H hardware firewall 3 Gbit/s
@@ -701,6 +776,37 @@ MA-JUNIOR 5.0 GREY,MARK ADLER,NEW,74.77,1,ON-SITE,Junior 5.0 Grey swivel chair
 MA-LEADPRO 8.7 BLACK,MARK ADLER,NEW,313.29,2,ON-SITE,Swivel chair Leadpro 8.7 Black
 MA-LEADPRO 8.7 GREY,MARK ADLER,NEW,313.29,2,ON-SITE,Swivel chair Leadpro 8.7 Grey
 MA-MANAGER 3.3 BLACK,MARK ADLER,NEW,80.13,1,ON-SITE,Manager 3.3 Black swivel chair
+M3XW129000,AC,NEW,106.93,4,ON-SITE,Foundation for single and double post
+SM-A376BZABEUE,Samsung,NEW,244.46,34,ON-SITE,"Samsung Galaxy A37 5G 17 cm (6.7"") Dual SIM Android 16.0 USB Type-C 6 GB 128 GB 5000 mAh Charcoal"
+SM-A376BDGBEUE,Samsung,NEW,244.46,145,ON-SITE,"Samsung Galaxy A37 5G 17 cm (6.7"") Dual SIM Android 16.0 USB Type-C 6 GB 128 GB 5000 mAh Grey"
+SM-A376BLVBEUE,Samsung,NEW,251.66,81,ON-SITE,"Samsung Galaxy A37 5G 17 cm (6.7"") Dual SIM Android 16.0 USB Type-C 6 GB 128 GB 5000 mAh Lavender"
+SM-A376BZWBEUE,Samsung,NEW,256.45,14,ON-SITE,"Samsung Galaxy A37 5G 17 cm (6.7"") Dual SIM Android 16.0 USB Type-C 6 GB 128 GB 5000 mAh White"
+SM-A376BLVGEUE,Samsung,NEW,292.84,6,ON-SITE,"Samsung Galaxy A37 5G 17 cm (6.7"") Dual SIM Android 16.0 USB Type-C 8 GB 256 GB 5000 mAh Lavender"
+SM-A376BZWGEUE,Samsung,NEW,292.84,2,ON-SITE,"Samsung Galaxy A37 5G 17 cm (6.7"") Dual SIM Android 16.0 USB Type-C 8 GB 256 GB 5000 mAh White"
+SM-S931BZSDEUE,Samsung,NEW,580.88,1,ON-SITE,"Samsung Galaxy S25 15.8 cm (6.2"") Dual SIM Android 15 5G USB Type-C 12 GB 128 GB 4000 mAh Silver"
+SM-S937BLBGEUE,Samsung,NEW,609.86,8,ON-SITE,"Samsung Galaxy S25 Edge 6.7"" Dual SIM Android 15 5G USB Type-C 12 GB 512 GB 3900 mAh Blue"
+SM-S938BZKDEUB,Samsung,NEW,987.67,30,ON-SITE,"Samsung Galaxy S25 Ultra 17.5 cm (6.9"") Dual SIM Android 15 5G USB Type-C 12 GB 256 GB 5000 mAh Black, Titanium"
+SM-S938BZTDEUE,Samsung,NEW,813.36,12,ON-SITE,"Samsung Galaxy S25 Ultra 17.5 cm (6.9"") Dual SIM Android 15 5G USB Type-C 12 GB 256 GB 5000 mAh Grey, Titanium"
+SM-S938BZTGEUE,Samsung,NEW,931.89,14,ON-SITE,"Samsung Galaxy S25 Ultra 17.5 cm (6.9"") Dual SIM Android 15 5G USB Type-C 12 GB 512 GB 5000 mAh Grey, Titanium"
+SM-S938BZSGEUE,Samsung,NEW,927.1,9,ON-SITE,"Samsung Galaxy S25 Ultra 17.5 cm (6.9"") Dual SIM Android 15 5G USB Type-C 12 GB 512 GB 5000 mAh Black, Silver, White"
+SM-S948BZVDEUE,Samsung,NEW,902.91,16,ON-SITE,"Samsung Galaxy S26 Ultra 17.5 cm (6.9"") Dual SIM Android 16.0 5G USB Type-C 12 GB 256 GB 5000 mAh Violet"
+SM-S948BZVGEUE,Samsung,NEW,1065.01,17,ON-SITE,"Samsung Galaxy S26 Ultra 17.5 cm (6.9"") Dual SIM Android 16.0 5G USB Type-C 12 GB 512 GB 5000 mAh Violet"
+SM-X620NZAREUE,Samsung,NEW,500.91,6,ON-SITE,"Samsung SM-X620NZAREUE tablet Samsung Exynos 128 GB 33.3 cm (13.1"") 8 GB Wi-Fi 6 (802.11ax) Android 15 Grey"
+SM-X406BZAPEUE,Samsung,NEW,305.51,1,ON-SITE,"Samsung Galaxy Tab S10 lite 5G 256 GB 27.7 cm (10.9"") 6 GB Wi-Fi 6 (802.11ax) Grey"
+SM-X930NZAPEUE,Samsung,NEW,944.09,12,ON-SITE,"Samsung Galaxy Tab S11 Ultra 512 GB 37.1 cm (14.6"") 12 GB Wi-Fi 7 (802.11be) Grey"
+SM-G556BZKDEEE,Samsung,NEW,225.08,1,ON-SITE,Samsung Galaxy XCover7 Enterprise Edition
+SM-G766BZKDEEB,Samsung,NEW,406.57,35,ON-SITE,"Samsung Galaxy XCover7 Pro 16.8 cm (6.6"") Hybrid Dual SIM 5G USB Type-C 6 GB 128 GB 4350 mAh Black"
+SM-G766BZKDEEE,Samsung,NEW,389.58,46,ON-SITE,"Samsung Galaxy XCover7 Pro 16.8 cm (6.6"") Hybrid Dual SIM 5G USB Type-C 6 GB 128 GB 4350 mAh Black"
+GB20,NOCO,NEW,71.02,23,ON-SITE,NOCO GB20 vehicle jump starter 500 A
+GB40,NOCO,NEW,87.1,101,ON-SITE,NOCO GB40 Boost 12V 1000A Jump Starter starter device with integrated 12V/USB battery
+GB50,NOCO,NEW,126.49,24,ON-SITE,NOCO GB50 vehicle jump starter 1500 A
+GB70,NOCO,NEW,164.82,29,ON-SITE,NOCO GB70 Boost 12V 2000A Jump Starter starter device with integrated 12V/USB battery
+GBX155,NOCO,NEW,294.53,10,ON-SITE,NOCO GBX155 vehicle jump starter 4250 A
+GBX45,NOCO,NEW,106.93,102,ON-SITE,NOCO GBX45 vehicle jump starter 1250 A
+GBX55,NOCO,NEW,142.04,16,ON-SITE,NOCO GBX55 vehicle jump starter 1750 A
+GBX75,NOCO,NEW,205.02,30,ON-SITE,NOCO GBX75 vehicle jump starter 2500 A
+GENIUS10EU,NOCO,NEW,103.72,7,ON-SITE,NOCO GENIUS10 EU 10A Battery charger for 6V/12V batteries with maintenance and desulphurisation function
+GENIUS5EU,NOCO,NEW,65.39,40,ON-SITE,NOCO GENIUS5 5A Battery charger for 6V/12V batteries with maintenance and desulphurisation function
 GV-N506TIXEB-16GD,Gigabyte,NEW,787.14,21,ON-SITE,"GIGABYTE AORUS RTX 5060 Ti AI BOX Graphics Card - 16GB GDDR7, 128bit, PCI-E 5.0, 2572MHz Core Clock, 3 x DP 2.1, 1 x HDMI 2.1, GV-N506TIXEB-16GD"
 6NR133C10MR000ABA2Z0,Gigabyte,NEW,983.55,1,ON-SITE,Gigabyte Rack Platform (1U) AMD R133-C10-000-AAA2
 D8-BLK/S,W-King,NEW,66.7,2,ON-SITE,W-KING D8 wireless Bluetooth speaker – black and silver
@@ -866,12 +972,21 @@ W-MEM3200E4S88G,GoodRam,NEW,79.83,2,ON-SITE,Goodram UDIMM ECC 8GB 1Rx8 3200MHz P
 GEUS20UADP-1T9IS10B,GoodRam,NEW,781.61,20,ON-SITE,Goodram US20M 1.92TB U.2 (15mm) NVMe Gen5 Dual Port SSD GEUS20UADP-1T9IS10B (DWPD 1) ISE
 GEUS20UASP-3T8TP10B,GoodRam,NEW,1231.89,15,ON-SITE,Goodram US20M 3.84TB U.2 (15mm) NVMe Gen5 Single Port SSD GEUS20UASP-3T8TP10B (DWPD 1) TCG
 GEUS20UADP-1T6IS30B,GoodRam,NEW,810.28,20,ON-SITE,Goodram US20S 1.6TB U.2 (15mm) NVMe Gen5 Dual Port SSD GEUS20UADP-1T6IS30B (DWPD 3) ISE
+GA10214-GB,Google,NEW,535.72,15,ON-SITE,"Google Pixel 10 16 cm (6.3"") Dual SIM Android 16.0 5G USB Type-C 12 GB 128 GB 4970 mAh Violet"
+GA09900-GB,Google,NEW,830.52,15,ON-SITE,"Google Pixel 10 Pro 16 cm (6.3"") Dual SIM Android 16.0 5G 16 GB 256 GB 4870 mAh Black"
+?,Google,NEW,965.78,1,ON-SITE,"Google Pixel 10 Pro 16 cm (6.3"") Dual SIM Android 16.0 5G 16 GB 128 GB 4870 mAh Grey"
 90SKC000-M5UAN0,ASUS,NEW,384.84,2,ON-SITE,ASUS A2000 NVIDIA RTX A2000 6 GB GDDR6
 TCSL4PCIE-PB,PNY Technologies,NEW,3075.0,10,ON-SITE,"Graphics card PNY NVIDIA L4 Module 24GB, PCIe 4.0 x16, LP - ATX bracket, retail"
 VCNRTX4500ADA-PB,PNY Technologies,NEW,2720.27,18,ON-SITE,"Graphics card PNY NVIDIA RTX 4500 Ada Generation, 24 GB GDDR6 ECC 192-bit, CIe 4.0 x16 , Dual Slot, 4x DP 1.4a, ATX - ATX bracket, 1x 16-pin power supply cable, 1x DisplayPort to HDMI 2.0, retail"
 VCNRTX4500ADA-SB,PNY Technologies,NEW,2608.66,12,ON-SITE,"Graphics card PNY NVIDIA RTX 4500 Ada Generation, 24 GB GDDR6 ECC 192-bit, CIe 4.0 x16 , Dual Slot, 4x DP 1.4a, ATX - ATX bracket, 1x 16-pin power supply cable, small box"
 VCNRTX5000ADA-PB,PNY Technologies,NEW,4376.0,2,ON-SITE,"PNY NVIDIA RTX 5000 Ada Generation, 32 GB GDDR6 ECC 256-bit, PCIe 4.0 x16, Dual Slot, 4x DP 1.4a, ATX - ATX bracket, 1x 16-pin power supply cable, retial"
 VCNRTX6000ADA-PB,PNY Technologies,NEW,9082.16,4,ON-SITE,PNY VCNRTX6000ADA-PB NVIDIA RTX 6000 ADA 48GB GDDR6 4X DISPLAYPORT PCI EXPRESS 4.0 DUAL SLOT ATX - ATX BRACKET RETAIL
+EV15RFID,Green Cell,NEW,321.33,7,ON-SITE,GREEN CELL WALLBOX EV POWERBOX 22KW WITH SOCKET & RFID
+EV14,Green Cell,NEW,351.08,15,ON-SITE,Green Cell EV Powerbox 22kW with Plug-In cable
+EVGC01,Green Cell,NEW,474.08,2,ON-SITE,Green Cell Habu EVGC01 Mobile EV charger for electric vehicles 11 kW 7 m Type 2 CEE Wallbox Black
+EVGC021B2250,Green Cell,NEW,482.4,6,ON-SITE,Wallbox Green Cell HabuDen 22kW 32A - 5m cable with NFC
+EVGC021B2275,Green Cell,NEW,517.23,7,ON-SITE,"Wallbox Green Cell HabuDen 22kW 32A - 7,5m cable with NFC"
+EV16,Green Cell,NEW,164.82,6,ON-SITE,Green Cell EV16 electric vehicle charging station Black 1 Built-in display LCD
 R-PIXEL-BK100-G-1,DEEPCOOL,NEW,2.23,65,ON-SITE,DeepCool PIXEL Universal Other
 R-PIXEL-BU100-G-1,DEEPCOOL,NEW,2.23,14,ON-SITE,DeepCool PIXEL Universal Other
 R-PIXEL-GB100-G-1,DEEPCOOL,NEW,2.23,3,ON-SITE,DeepCool PIXEL Universal Other
@@ -896,6 +1011,7 @@ ST16000NM007H,Seagate,NEW,896.78,10,ON-SITE,"Seagate Exos X24 internal hard driv
 ST28000NM003K,Seagate,NEW,1071.98,10,ON-SITE,"Seagate Exos M internal hard drive 28 TB 7200 RPM 512 MB 3.5"" Serial ATA"
 ST30000NM004K,Seagate,NEW,1259.58,10,ON-SITE,"Seagate Exos M internal hard drive 30 TB 7200 RPM 512 MB 3.5"" Serial ATA (ST30000NM004K)"
 ST32000NM004K,Seagate,NEW,1741.98,10,ON-SITE,"Seagate Exos M internal hard drive 32 TB 7200 RPM 512 MB 3.5"" Serial ATA"
+STKM1000400,Seagate,NEW,76.38,261,ON-SITE,Seagate STKM1000400 external hard drive 1 TB USB Type-A 3.2 Gen 1 (3.1 Gen 1) Black
 ST4000VN006,Seagate,NEW,196.17,10,ON-SITE,"Seagate IronWolf ST4000VN006 internal hard drive 3.5"" 4 TB Serial ATA III"
 ST8000VN002,Seagate,NEW,370.76,10,ON-SITE,"Seagate IronWolf ST8000VN002 internal hard drive 8 TB 5400 RPM 256 MB 3.5"" Serial ATA III"
 ST24000NT002,Seagate,NEW,1013.37,10,ON-SITE,"Seagate IronWolf Pro ST24000NT002 internal hard drive 24 TB 7200 RPM 512 MB 3.5"" Serial ATA III"
@@ -918,6 +1034,8 @@ ST32000VE000,Seagate,NEW,1045.19,10,ON-SITE,"Seagate SkyHawk AI internal hard dr
 ST8000VE001,Seagate,NEW,353.11,10,ON-SITE,"Seagate SkyHawk AI internal hard drive 8 TB 7200 RPM 256 MB 3.5"" Serial ATA III (ST8000VE001)"
 SP020TBPHDA30S3K,Silicon Power,NEW,125.23,4,ON-SITE,Silicon Power Armor A30 external hard drive 2000 GB Black
 SP020TBPHDA30S3W,Silicon Power,NEW,125.23,1,ON-SITE,Silicon Power Armor A30 external hard drive 2000 GB White
+HDTB520EK3AA,Toshiba,NEW,101.58,48,ON-SITE,"Toshiba Canvio Basics external hard drive 2 TB 2.5"" USB Type-A / Micro-USB B 2.0/3.2 Gen 1 (3.1 Gen 1) Black"
+HDTB540EK3CA,Toshiba,NEW,154.1,35,ON-SITE,"Toshiba Canvio Basics external hard drive 4 TB 2.5"" USB Type-A / Micro-USB B 2.0/3.2 Gen 1 (3.1 Gen 1) Black"
 MG11SCA24TE,Toshiba,NEW,865.57,7,ON-SITE,"Toshiba MG11SCA24TE internal hard drive 24 TB 7200 RPM 1024 MB 3.5"" SAS"
 MN10ADA800S,Toshiba,NEW,332.58,3,ON-SITE,"Toshiba N300 internal hard drive 8 TB 7200 RPM 512 MB 3.5"" Serial ATA III"
 HDWT720UZSVA,Toshiba,NEW,122.88,71,ON-SITE,"Toshiba S300 Surveillance internal hard drive 2 TB 5400 RPM 128 MB 3.5"" Serial ATA III"
@@ -927,6 +1045,15 @@ MG10ADA800E-V,Toshiba,NEW,312.98,40,ON-SITE,"Toshiba MG10ADA800E-V internal hard
 ACDG0,Vention,NEW,21.8,1,ON-SITE,Vention 5 In 1 Out HDMI Switcher Black
 DS-1280ZJ-S,Hikvision,NEW,17.42,17,ON-SITE,Hikvision DS-1280ZJ-S security camera accessory Junction box
 DS-1280ZJ-XS,Hikvision,NEW,11.25,20,ON-SITE,Hikvision DS-1280ZJ-XS security camera accessory Junction box
+6936520895175,Honor,NEW,491.78,5,ON-SITE,Honor 600 DS 5G 8/256 Gold smartphone
+6936520895182,Honor,NEW,491.78,4,ON-SITE,Honor 600 DS 5G 8/256 smartphone (Orange)
+6936520895168,Honor,NEW,491.78,3,ON-SITE,Honor 600 DS 5G 8/256 Smartphone – Velvet Black
+6936520895199,Honor,NEW,522.32,4,ON-SITE,"Honor 600 5G 16.7 cm (6.57"") Dual SIM Android 16.0 USB Type-C 8 GB 512 GB 6400 mAh Black"
+6936520895205,Honor,NEW,521.25,2,ON-SITE,"Honor 600 5G 16.7 cm (6.57"") Dual SIM Android 16.0 USB Type-C 8 GB 512 GB 6400 mAh Gold, White"
+6936520895212,Honor,NEW,521.25,3,ON-SITE,"Honor 600 5G 16.7 cm (6.57"") Dual SIM Android 16.0 USB Type-C 8 GB 512 GB 6400 mAh Orange"
+6936520891962,Honor,NEW,277.38,4,ON-SITE,"Honor 600 Lite 16.8 cm (6.6"") Dual SIM Android 16.0 5G USB Type-C 8 GB 256 GB 6520 mAh Black"
+6936520891979,Honor,NEW,277.38,1,ON-SITE,"Honor 600 Lite 16.8 cm (6.6"") Dual SIM Android 16.0 5G USB Type-C 8 GB 256 GB 6520 mAh Grey"
+6936520895113,Honor,NEW,669.72,3,ON-SITE,"Honor 600 Pro 5G 16.7 cm (6.57"") Dual SIM Android 16.0 USB Type-C 12 GB 512 GB 6400 mAh Black"
 C7976A,Hewlett Packard Enterprise,NEW,36.35,4,ON-SITE,HPE LTO-6 Ultrium 6.25TB RW Data Cartridge
 Q2078A,Hewlett Packard Enterprise,NEW,59.38,105,ON-SITE,HPE LTO-8 Ultrium 30TB RW Data Cartridge
 Q2079A,Hewlett Packard Enterprise,NEW,79.97,39,ON-SITE,HPE LTO-9 Ultrium 45TB RW Data Cartridge
@@ -939,6 +1066,10 @@ UH3020C,TP-LINK,NEW,20.37,3,ON-SITE,TP-Link UH3020C interface hub USB Type-C 500
 UH5020C,TP-LINK,NEW,23.05,9,ON-SITE,TP-Link UH5020C interface hub USB Type-C 5000 Mbit/s Grey
 UH6120C,TP-LINK,NEW,29.48,47,ON-SITE,TP-Link UH6120C interface hub USB Type-C Grey
 UH7020C,TP-LINK,NEW,30.02,7,ON-SITE,TP-Link UH7020C interface hub USB 3.2 Gen 1 (3.1 Gen 1) Type-C 5000 Mbit/s
+ZAFM0169SE,Lenovo,NEW,234.66,55,ON-SITE,"Lenovo Idea Tab 5G Mediatek 256 GB 27.9 cm (11"") 8 GB Wi-Fi 5 (802.11ac) Android 15 Grey"
+ZAFR0442PL,Lenovo,NEW,181.5,193,ON-SITE,"Lenovo Idea Tab 11 MediaTek Dimensity 6300 11"" 2.5K IPS 500 nits 90 Hz Touch 8/128 GB Arm Mali-G57 MC2 WiFi Android Luna Grey"
+ZAG70451PL,Lenovo,NEW,271.04,195,ON-SITE,"Lenovo Idea Tab Plus MediaTek Dimensity 6400 256 GB 30.7 cm (12.1"") 8 GB Wi-Fi 5 (802.11ac) Android 15 Grey"
+ZAE40205PL,Lenovo,NEW,387.17,16,ON-SITE,"Lenovo Idea Tab Pro MediaTek Dimensity 8300 12.7"" 3K Touch IPS 400 nits 144 Hz AG 8/256 GB WiFi Luna Grey"
 NVR-N118-8A0E-P,imou,NEW,69.87,1,ON-SITE,Imou N118W Black
 POE-24-12W-G,UBIQUITI,NEW,10.13,22,ON-SITE,Ubiquiti POE-24-12W-G Gigabit Ethernet 24 V
 POE-48-24W-G,UBIQUITI,NEW,12.38,14,ON-SITE,Ubiquiti POE-48-24W-G PoE adapter Gigabit Ethernet 48 V
@@ -958,6 +1089,7 @@ SGT,Insert,NEW,168.03,19,ON-SITE,InsERT Subiekt GT
 PK8077105930800,Intel,NEW,2375.01,1,ON-SITE,Intel Xeon 6 6740E Tray PK8077105930800
 PK8072006410200,Intel,NEW,4010.28,2,ON-SITE,"Intel Xeon 6, 6944P Tray PK8072006410200"
 PK8071305072001,Intel,NEW,1361.98,55,ON-SITE,Intel Xeon Gold 6414U processor 2 GHz 60 MB Tray
+82L500F2PB_W11,Lenovo,NEW,619.6,1,ON-SITE,"Lenovo IdeaPad 5 Pro 16ACH6 AMD Ryzen 7 5800H 16"" 2.5K WQXGA IPS 350nits AG 16GB Soldered DDR4-3200 1TB SSD M.2 2280 PCIe 3.0x4 NVMe GeForce GTX 1650 4GB GDDR6 Windows 11 Storm Grey"
 90YE00BN-B0QA00,ASUS,NEW,52.07,38,ON-SITE,ASUS ROG-EQUALIZER 0.75 m
 BCFBF,Vention,NEW,3.99,21,ON-SITE,Vention 3.5mm Male to 2RCA Male Audio Cable 1M Black Metal Type
 BCFBH,Vention,NEW,4.32,17,ON-SITE,Vention 3.5mm Male to 2RCA Male Audio Cable 2M Black Metal Type
@@ -984,6 +1116,7 @@ IKABQ,Vention,NEW,36.85,3,ON-SITE,Vention Cat.8 SFTP Patch Cable 20m Black
 IKABH,Vention,NEW,4.44,2,ON-SITE,Vention Cat.8 SFTP Patch Cable 2M Black
 IKABI,Vention,NEW,5.93,4,ON-SITE,Vention Cat.8 SFTP Patch Cable 3M Black
 IKABJ,Vention,NEW,9.39,4,ON-SITE,Vention Cat.8 SFTP Patch Cable 5M Black
+EVKABGC01,Green Cell,NEW,104.25,1,ON-SITE,Green Cell GC-EVKABGC01 not categorized
 AACBN,Vention,NEW,15.51,5,ON-SITE,Vention 15m HDMI cable
 AACBQ,Vention,NEW,30.43,5,ON-SITE,Vention HDMI Cable 20m Black
 AACBH,Vention,NEW,3.16,1,ON-SITE,Vention HDMI Cable 2M Black
@@ -1327,6 +1460,7 @@ KDVB0,Vention,NEW,8.17,7,ON-SITE,Vention AX300 USB Wi-Fi 6 2.4GHz BK network car
 Archer T3U,TP-LINK,NEW,13.13,116,ON-SITE,TP-Link Archer T3U WLAN 867 Mbit/s
 ZT-A30610E-10MLHR,ZOTAC,NEW,284.07,1,ON-SITE,Zotac GAMING GeForce RTX 3060 Ti Twin Edge LHR NVIDIA 8 GB GDDR6
 T2U Nano,TP-LINK,NEW,8.57,282,ON-SITE,TP-Link Archer T2U Nano WLAN 433 Mbit/s
+580-ADHK,Dell,NEW,17.21,37,ON-SITE,DELL KB216 keyboard USB QWERTY US International Black
 941-000112,Logitech,NEW,216.79,107,ON-SITE,"Logitech G G29 Steering wheel + Pedals Playstation 3,PlayStation 4 Analogue USB 2.0 Black"
 941-000123,Logitech,NEW,212.98,25,ON-SITE,Logitech G G920 Driving Force
 941-000149,Logitech,NEW,241.07,16,ON-SITE,"Logitech G G923 Racing Wheel and Pedals for PS5, PS4 and PC"
@@ -1479,12 +1613,274 @@ RZ03-03390200-R3M1,RAZER,NEW,64.05,1,ON-SITE,Razer Huntsman Mini keyboard Gaming
 HZ-Speed 6.0,huzaro,NEW,294.53,3,ON-SITE,Huzaro Speed 6.0 - racing cockpit
 25789,Trust,NEW,29.48,1,ON-SITE,"Trust 25789 Gaming Controller Black Bluetooth/USB Gamepad Android, Nintendo Switch, PC, iOS"
 25744,Trust,NEW,29.48,2,ON-SITE,"Trust GXT 542SM Muta Blue Bluetooth/RF/USB Gamepad Android, Nintendo Switch, Nintendo Switch 2, Nintendo Switch Lite, Nintendo Switch OLED, PC, iOS"
+V004284-50,Valve,NEW,526.61,9,ON-SITE,Valve Steam Deck 256GB LCD Console
+VST-OLED-512GB,Valve,NEW,910.92,21,ON-SITE,Valve Steam Deck OLED 512GB
 25485,Trust,NEW,41.62,1,ON-SITE,"Trust GXT 735 Mylox Black Bluetooth Gamepad Analogue / Digital Android, iOS"
 GCSWDOINWH003-0,Madcatz,NEW,18.81,23,ON-SITE,Mad Catz C.A.T. 17 CUSTOMISABLE gaming controller
 LPe32002-M2,BROADCOM,NEW,617.6,1,ON-SITE,Broadcom LPE32002-M2 network card Internal Fiber 3200 Mbit/s
 OC200,TP-LINK,NEW,90.85,9,ON-SITE,TP-Link Omada Hardware Controller
 UCK-G2-SSD,UBIQUITI,NEW,246.43,2,ON-SITE,"Ubiquiti CloudKey+ gateway/controller 10, 100, 1000 Mbit/s"
 KRX0071,KRUX,NEW,18.24,12,ON-SITE,KRUX External DVD Optical Drive
+83F1001SPB,Lenovo,NEW,1602.54,30,ON-SITE,"Lenovo Legion 5 15AKP10 AMD Ryzen AI 7 350 Laptop 38.4 cm (15.1"") WQXGA 32 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 5070 Wi-Fi 7 (802.11be) NoOS Black"
+83F1001TPB,Lenovo,NEW,1476.6,11,ON-SITE,"Lenovo Legion 5 15AKP10 Ryzen AI 7 350 15.1"" WQXGA OLED 500 nits Glossy 165 Hz 32 GB DDR5 5600 SSD 512 GeForce RTX 5070 8 GB 80 Wh NoOS Eclipse Black"
+83LT0020PB,Lenovo,NEW,1500.78,44,ON-SITE,"Lenovo Legion Pro 5 16ADR10 Ryzen 9 8945HX 16"" WQXGA IPS 500 nits 240 Hz AG 32 GB DDR5 5200 SSD 1 TB GeForce RTX 5060 8 GB NoOS Eclipse Black"
+83F2001FPB,Lenovo,NEW,1851.79,3,ON-SITE,"Lenovo Legion Pro 5 16AFR10 AMD Ryzen™ 9 9955HX Laptop 40.6 cm (16"") WQXGA 32 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 5070 Wi-Fi 7 (802.11be) Black"
+83F3003BPB,Lenovo,NEW,1864.0,21,ON-SITE,"Lenovo Legion Pro 5 16IAX10 Intel Core Ultra 7 255HX Laptop 40,6 cm (16"") WQXGA 32 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 5070 Wi-Fi 7 (802.11be) Windows 11 Home Black"
+83F3003EPB,Lenovo,NEW,1515.38,38,ON-SITE,"Lenovo Legion Pro 5 16IAX10 Intel Core Ultra 9 275HX Laptop 40.6 cm (16"") WQXGA 32 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 5060 Wi-Fi 7 (802.11be) Black"
+83F5004XPB,Lenovo,NEW,3437.56,5,ON-SITE,"Lenovo Legion Pro 7 16IAX10H Intel Core Ultra 9 275HX Laptop 40.6 cm (16"") WQXGA 64 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 5080 Wi-Fi 7 (802.11be) NoOS Black"
+83F5004JPB,Lenovo,NEW,3660.23,1,ON-SITE,"Lenovo Legion Pro 7 16IAX10H Intel Core Ultra 9 275HX Laptop 40.6 cm (16"") WQXGA 64 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 5080 Wi-Fi 7 (802.11be) Windows 11 Home Black"
+83NN000UPB,Lenovo,NEW,1537.17,35,ON-SITE,"Lenovo Legion Pro 5 16IRX10 Intel® Core™ i7 i7-14650HX Laptop 40.6 cm (16"") WQXGA 16 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 5060 Wi-Fi 6 (802.11ax) NoOS Black"
+83RU000LPB,Lenovo,NEW,3703.8,1,ON-SITE,"Lenovo Legion Pro 7 16AFR10H Ryzen 9 9955HX3D 16.0"" WQXGA OLED 500 nits 240 Hz LBL Glossy 64 GB DDR5 5600 SSD 2 TB GeForce RTX 5080 16 GB Cam 5.0 MP 99.9 Wh W11Pro Eclipse Black"
+83F5003CPB,Lenovo,NEW,3703.8,1,ON-SITE,"Lenovo Legion Pro 7 16IAX10H Ultra 9 275HX 16"" WQXGA OLED 500nits Glossy 240Hz 64GB DDR5 400 2xSSD1TB GeForce RTX 5080 16GB Win11 Eclipse Black"
+GX30L66303,Lenovo,NEW,21.57,2,ON-SITE,Lenovo GX30L66303 keyboard Mouse included Universal QWERTY US English Black
+G0A3140WWW,Lenovo,NEW,58.61,48,ON-SITE,"Lenovo 140W PowerBank 20000 mAh 2 x USB-C, 1 x USB-A, Gold Grey"
+GX40Q17226,Lenovo,NEW,12.2,59,ON-SITE,"Lenovo B210 39.6 cm (15.6"") Backpack Blue"
+GX40Q75215,Lenovo,NEW,19.39,1,ON-SITE,"Lenovo B515 39.6 cm (15.6"") Backpack Black, Red"
+GX40Q75216,Lenovo,NEW,18.52,72,ON-SITE,"Lenovo B515 39.6 cm (15.6"") Backpack Blue"
+4X40T84059,Lenovo,NEW,18.09,61,ON-SITE,"Lenovo B210 39.6 cm (15.6"") Backpack Black"
+GX40Q75217,Lenovo,NEW,18.96,51,ON-SITE,"Lenovo B515 notebook case 39.6 cm (15.6"") Backpack Black, Grey"
+GY51L52638,Lenovo,NEW,9.81,41,ON-SITE,Wireless mouse - Lenovo 150 Wireless Mouse GY51L52638
+GX31L52655,Lenovo,NEW,19.18,22,ON-SITE,Lenovo 160 keyboard Mouse included Home/Office USB US English Black
+83F5005BPB,Lenovo,NEW,4238.93,12,ON-SITE,"Lenovo Legion Pro 7 16IAX10H Intel Core Ultra 9 275HX Laptop 40.6 cm (16"") WQXGA 64 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 5090 Wi-Fi 7 (802.11be) Black"
+83F5005DPB,Lenovo,NEW,4115.39,3,ON-SITE,"Lenovo Legion Pro 7 16IAX10H Intel Core Ultra 9 275HX Laptop 40.6 cm (16"") WQXGA 64 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 5090 Wi-Fi 7 (802.11be) Windows 11 Home Black"
+83F5005CPB,Lenovo,NEW,4401.03,1,ON-SITE,"Lenovo Legion Pro 7 16IAX10H Intel Core Ultra 9 275HX Laptop 40.6 cm (16"") WQXGA 64 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 5090 Wi-Fi 7 (802.11be) Windows 11 Pro Black"
+68CEGACBEU,Lenovo,NEW,462.35,32,ON-SITE,"Lenovo Legion Pro 27UD-10 computer monitor 67.3 cm (26.5"") 3840 x 2160 pixels 4K Ultra HD QD-OLED Black, Grey"
+GX30M39606,Lenovo,NEW,25.06,38,ON-SITE,Lenovo 300 keyboard Mouse included Universal USB QWERTY US English Black
+GX30M39704,Lenovo,NEW,6.32,120,ON-SITE,Lenovo GX30M39704 mouse Ambidextrous USB Type-A 1600 DPI
+GXC1S15022,Lenovo,NEW,27.24,28,ON-SITE,Lenovo 310 webcam 1920 x 1080 pixels USB 2.0 White
+GX31R09775,Lenovo,NEW,26.58,72,ON-SITE,Lenovo 310 USB-A Wired Combo US English GX31R09775 Black
+GY51S61907,Lenovo,NEW,12.86,123,ON-SITE,Lenovo 350 mouse Office Ambidextrous Bluetooth Optical 2400 DPI
+GY51D20875,Lenovo,NEW,9.15,116,ON-SITE,Lenovo GY51D20875 mouse Office Ambidextrous USB Type-C Optical 2400 DPI
+GY50R91293,Lenovo,NEW,10.46,21,ON-SITE,Lenovo GY50R91293 mouse Office Ambidextrous RF Wireless Optical 1200 DPI
+GX20L23043,Lenovo,NEW,14.16,70,ON-SITE,Lenovo GX20L23043 power adapter/inverter Indoor 45 W Black
+4XC1Q25246,Lenovo,NEW,125.71,8,ON-SITE,Lenovo 4XC1Q25246 webcam 8 MP 1920 x 1080 pixels USB-C Black
+GX30N81776,Lenovo,NEW,31.37,32,ON-SITE,Lenovo GX30N81776 keyboard Mouse included Universal Black
+GY51D20878,Lenovo,NEW,8.49,28,ON-SITE,Lenovo GY51D20878 mouse Ambidextrous USB Type-C Optical 2400 DPI
+GY51D20877,Lenovo,NEW,8.49,28,ON-SITE,Lenovo 540 mouse Office Ambidextrous USB Type-C Optical
+GY51D20879,Lenovo,NEW,7.85,29,ON-SITE,Lenovo 540 mouse Office Ambidextrous USB Type-C Optical 2400 DPI
+4X20M26272,Lenovo,NEW,28.98,20,ON-SITE,Lenovo 4X20M26272 power adapter/inverter 65 W Black
+ZG38C05739,Lenovo,NEW,20.69,123,ON-SITE,"Lenovo ZG38C05739 mobile device charger Tablet, Universal Black AC Indoor"
+83F5004FPB,Lenovo,NEW,4357.45,7,ON-SITE,"Lenovo Legion Pro 7 16IAX10H Intel Core Ultra 9 275HX Laptop 40.6 cm (16"") WQXGA 64 GB DDR5-SDRAM 2 TB SSD NVIDIA GeForce RTX 5090 Wi-Fi 7 (802.11be) Black"
+GY51S61898,Lenovo,NEW,17.21,20,ON-SITE,Lenovo 700 mouse Office Ambidextrous RF Wireless + Bluetooth Optical 4000 DPI
+4Z10P40247,Lenovo,NEW,6.53,72,ON-SITE,Lenovo 4Z10P40247 cable lock Black 1.8 m
+13AY002APB,Lenovo,NEW,1350.66,2,ON-SITE,"Lenovo ThinkCentre M70a G6 Ultra 7 All-in-One 265T 23.8"" FHD IPS 120Hz 250 nits LBL AG 32GB DDR5 5600 1TB SSD Intel Graphics 5.0MP camera vPro Windows 11 Pro Black 3-year On-site warranty"
+13AY001LPB,Lenovo,NEW,1181.37,17,ON-SITE,"Lenovo ThinkCentre M70a G6 Ultra 7 All-in-One 265T 23.8"" FHD Touch IPS 120Hz 250 nits LBL AG 16GB DDR5 5600 512GB SSD Intel Graphics 5.0MP camera + IR vPro Windows 11 Pro Black 3-year On-site warranty"
+13AV000YPB,Lenovo,NEW,1459.6,19,ON-SITE,"Lenovo ThinkCentre M90a G6 Ultra 7 265 23.8"" FHD IPS 120Hz 250 nits LBL AG 32GB DDR5 5600 1TB SSD Intel Graphics 5.0MP camera + IR vPro Windows 11 Pro Black 3-year on-site warranty"
+13AV0011PB,Lenovo,NEW,1476.6,5,ON-SITE,"Lenovo ThinkCentre M90a G6 Ultra 7 265 23.8"" FHD Touch IPS 120Hz 250 nits LBL AG 32GB DDR5 5600 1TB SSD Intel Graphics 5.0MP camera + IR vPro Windows 11 Pro Black 3-year On-site warranty"
+12SD0069PB,Lenovo,NEW,1089.2,11,ON-SITE,"Lenovo ThinkCentre neo 50a G5 All-in-One PC, 7th Gen Core i7, 240GB SSD, 23.8"" FHD IPS display (250 nits, anti-glare), 32GB DDR5 RAM, 1TB SSD, Intel Graphics, 5.0MP webcam, Windows 11 Pro, Luna Grey, "
+12SD006APB,Lenovo,NEW,1016.65,12,ON-SITE,"Lenovo ThinkCentre neo 50a 24 Gen 5 Intel Core 7 240H 60.5 cm (23.8"") 1920 x 1080 pixels Touchscreen All-in-One PC 16 GB DDR5-SDRAM 1000 GB SSD Windows 11 Pro Wi-Fi 6 (802.11ax) Grey"
+4XD1T60925,Lenovo,NEW,180.63,25,ON-SITE,Lenovo 4XD1T60925 headphones/headset Wireless Head-band Office/Call center USB Type-C Bluetooth Grey
+4XD1S19777,Lenovo,NEW,101.54,2,ON-SITE,Lenovo ANC Headset 6550 Wireless Head-band Office/Call center USB Type-C Bluetooth Black
+4Y50R20864,Lenovo,NEW,13.95,13,ON-SITE,Lenovo 4Y50R20864 mouse Office Ambidextrous RF Wireless Optical
+4XC1Q44952,Lenovo,NEW,43.36,2,ON-SITE,Lenovo 4XC1Q44952 webcam 2 MP 1920 x 1080 pixels USB 2.0 Black
+F0JY0022PB,Lenovo,NEW,914.89,10,ON-SITE,"Lenovo IdeaCentre AIO 24ILL11 Ultra 5 226V 23.8"" FHD IPS 250 nits 100 Hz AG 16 GB LPDDR5X-8533 1 TB SSD Intel Arc Graphics 130V 5.0 MP webcam Windows 11 Cloud Grey"
+F0JY0024PB,Lenovo,NEW,666.51,45,ON-SITE,"Lenovo IdeaCentre AIO 24ILL11 Ultra 5 226V 23.8"" FHD IPS 250 nits 100 Hz AG 16 GB LPDDR5X-8533 512 GB SSD Intel Arc Graphics 130V 5.0 MP webcam No OS Cloud Grey"
+F0JY0023PB,Lenovo,NEW,790.7,20,ON-SITE,"Lenovo IdeaCentre AIO 24ILL11 Ultra 5 226V 23.8"" FHD IPS 250 nits 100 Hz AG 16 GB LPDDR5X-8533 512 GB SSD Intel Arc Graphics 130V 5.0 MP webcam Windows 11 Cloud Grey"
+F0JY0021PB,Lenovo,NEW,1002.05,10,ON-SITE,"Lenovo IdeaCentre AIO 24ILL11 Ultra 5 226V 23.8"" FHD Touch IPS 250 nits 100 Hz AG 16 GB LPDDR5X-8533 1 TB SSD Intel Arc Graphics 130V 5.0 MP camera Windows 11 Cloud Grey"
+F0JY001YPB,Lenovo,NEW,753.66,10,ON-SITE,"Lenovo IdeaCentre AIO 24ILL11 Ultra 7 256V 23.8"" FHD IPS 250 nits 100 Hz AG 16 GB LPDDR5X-8533 512 GB SSD Intel Arc Graphics 140V 5.0 MP webcam No OS Luna Grey"
+F0HN00SHPB,Lenovo,NEW,648.64,1,ON-SITE,"Lenovo IdeaCentre AIO 24IRH9 Intel® Core™ i3 i3-1315U 60.5 cm (23.8"") FHD All-in-One PC 8 GB DDR5-SDRAM 512 GB SSD Windows 11 Home Wi-Fi 6 (802.11ax) Grey"
+F0HN00SCPB,Lenovo,NEW,738.19,23,ON-SITE,"Lenovo IdeaCentre AIO 24IRH9 Intel® Core™ i5 i5-13420H 60.5 cm (23.8"") FHD All-in-One PC 16 GB DDR5-SDRAM 1 TB SSD Windows 11 Home Wi-Fi 6 (802.11ax) Grey"
+F0HN00SLPB,Lenovo,NEW,805.95,13,ON-SITE,"Lenovo IdeaCentre AIO 24IRH9 i5-13420H 23.8"" FHD IPS AG 250nits 100Hz 16GB DDR5 5200 SSD1TB Intel UHD Graphics Win11 Cloud Grey"
+F0HN00SKPB,Lenovo,NEW,822.95,3,ON-SITE,"Lenovo IdeaCentre AIO 24IRH9 Intel® Core™ i7 i7-13620H 60.5 cm (23.8"") 1920 x 1080 pixels All-in-One PC 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Home Grey"
+F0HN00SJPB,Lenovo,NEW,871.32,16,ON-SITE,"Lenovo IdeaCentre AIO 24IRH9 Intel® Core™ i7 i7-13620H 60.5 cm (23.8"") FHD All-in-One PC 16 GB DDR5-SDRAM 1 TB SSD Windows 11 Home Wi-Fi 6 (802.11ax) Grey"
+F0JW001VPB,Lenovo,NEW,958.47,10,ON-SITE,"Lenovo IdeaCentre AIO 27ILL11 Ultra 5 226V 27"" FHD IPS 300 nits LBL AG 16GB LPDDR5X-8533 1TB SSD Intel Arc Graphics 130V 5.0MP camera Windows 11 Cloud Grey"
+F0JW001XPB,Lenovo,NEW,707.9,54,ON-SITE,"Lenovo IdeaCentre AIO 27ILL11 Ultra 5 226V 27"" FHD IPS 300 nits LBL AG 16GB LPDDR5X-8533 512GB SSD Intel Arc Graphics 130V 5.0MP camera No OS Luna Grey"
+F0JW001WPB,Lenovo,NEW,871.32,20,ON-SITE,"Lenovo IdeaCentre AIO 27ILL11 Ultra 5 226V 27"" FHD IPS 300 nits LBL AG 16GB LPDDR5X-8533 512GB SSD Intel Arc Graphics 130V 5.0MP camera Windows 11 Cloud Grey"
+F0JW001RPB,Lenovo,NEW,914.89,3,ON-SITE,"Lenovo IdeaCentre AIO 27ILL11 Ultra 7 256V 27"" FHD IPS 300 nits LBL AG 16GB LPDDR5X-8533 512GB SSD Intel Arc Graphics 140V 5.0MP camera Windows 11 Cloud Grey"
+F0HM00RUPB,Lenovo,NEW,871.32,9,ON-SITE,"Lenovo IdeaCentre AIO 27IRH9 Intel® Core™ i5 i5-13420H 68.6 cm (27"") QHD All-in-One PC 16 GB DDR5-SDRAM 1 TB SSD Windows 11 Home Wi-Fi 6 (802.11ax) Grey"
+F0HM00RWPB,Lenovo,NEW,796.36,64,ON-SITE,"Lenovo IdeaCentre AIO 27IRH9 Intel® Core™ i5 i5-13420H 68.6 cm (27"") FHD Touch All-in-One PC 16 GB DDR5-SDRAM 1TB SSD Windows 11 Home Wi-Fi 6 (802.11ax) Grey"
+91B20045PL,Lenovo,NEW,631.64,17,ON-SITE,Lenovo IdeaCentre Mini 01IRH10R Core 5 210H 16GB DDR5 5600 SSD512 Intel Graphics WLAN+BT LAN W11Pro Luna Grey 3Y OnSite
+91CF0031PL,Lenovo,NEW,914.89,24,ON-SITE,Lenovo IdeaCentre Tower 08IAS10 Ultra 5 225 16GB DDR5 5600 1TB SSD Intel Graphics WLAN+BT W11Pro Cloud Grey 3-year On-site
+91CF0035PL,Lenovo,NEW,660.84,22,ON-SITE,Lenovo IdeaCentre Tower 08IAS10 Ultra 5 225 16GB DDR5 5600 512GB SSD Intel Graphics WLAN+BT No OS Cloud Grey 3-year On-site
+91CF0034PL,Lenovo,NEW,784.16,49,ON-SITE,Lenovo IdeaCentre Tower 08IAS10 Ultra 5 225 16GB DDR5 5600 512GB SSD Intel Graphics WLAN+BT W11 Pro Cloud Grey 3-year On-site
+91CF0033PL,Lenovo,NEW,958.47,24,ON-SITE,Lenovo IdeaCentre Tower 08IAS10 Ultra 5 225 32GB DDR5 5600 1TB SSD Intel Graphics WLAN+BT No OS Cloud Grey 3-year On-site
+91CF0032PL,Lenovo,NEW,1065.01,24,ON-SITE,Lenovo IdeaCentre Tower 08IAS10 Ultra 5 225 32GB DDR5 5600 1TB SSD Intel Graphics WLAN+BT W11 Pro Cloud Grey 3-year On-site
+90XW004KPL,Lenovo,NEW,561.49,19,ON-SITE,Lenovo IdeaCentre Tower 08IRH9 Intel® Core™ i5 i5-13420H 16 GB DDR5-SDRAM 1000 GB SSD SFF PC Grey
+90XW004JPL,Lenovo,NEW,500.91,29,ON-SITE,Lenovo IdeaCentre Tower 08IRH9 Intel® Core™ i5 i5-13420H 16 GB DDR5-SDRAM 512 GB SSD SFF PC Grey
+90XS006UPL,Lenovo,NEW,728.6,3,ON-SITE,Lenovo IdeaCentre Tower 08IRR9 Intel® Core™ i5 i5-14400 16 GB DDR5-SDRAM 1000 GB SSD PC Win11 Pro Grey
+90XS006VPL,Lenovo,NEW,653.43,5,ON-SITE,Lenovo IdeaCentre Tower 08IRR9 i5-14400 16GB DDR5 4800 512GB SSD UHD Graphics 730 Windows 11 Pro Grey 3-year On-site warranty
+90XW004FPL,Lenovo,NEW,682.63,42,ON-SITE,Lenovo IdeaCentre Tower 08IRH9 i7-13620H 32GB DDR5 5200 SSD 1TB Intel UHD Graphics No OS Cloud Grey 3-year On-site warranty
+ZAFR0262PL,Lenovo,NEW,229.87,206,ON-SITE,"Lenovo Idea Tab MediaTek Dimensity 6300 11"" 2.5K IPS 500 nits 90 Hz Touch 8/128 GB Arm Mali-G57 MC2 WiFi Luna Grey"
+ZAFR0405SE,Lenovo,NEW,169.3,404,ON-SITE,"Lenovo Idea Tab Mediatek 128 GB 27.9 cm (11"") 8 GB Wi-Fi 5 (802.11ac) Android 15 Grey"
+ZAFR0399SE,Lenovo,NEW,195.88,2650,ON-SITE,"Lenovo Idea Tab Mediatek 256 GB 27.9 cm (11"") 2.5K 8 GB Wi-Fi 5 (802.11ac) Android 15 Grey"
+ZAFR0949PL,Lenovo,NEW,237.06,476,ON-SITE,"Lenovo Idea Tab Mediatek 256 GB 27.9 cm (11"") 2.5K 8 GB Wi-Fi 5 (802.11ac) Android 15 Grey"
+ZAFM0200PL,Lenovo,NEW,273.45,12,ON-SITE,"Lenovo Idea Tab Mediatek 256 GB 27.9 cm (11"") 8 GB Wi-Fi 5 (802.11ac) Android 15 Grey"
+ZAG70175PL,Lenovo,NEW,271.04,6,ON-SITE,"Lenovo Idea Tab Plus MediaTek Dimensity 6400 256 GB 30.7 cm (12.1"") 8 GB Wi-Fi 5 (802.11ac) Android 15 Grey"
+ZAE40188PL,Lenovo,NEW,321.82,24,ON-SITE,"Lenovo Idea Tab Pro Mediatek 128 GB 32.3 cm (12.7"") 8 GB Wi-Fi 6E (802.11ax) Android 14 Seafoam Green"
+GX41H70101,Lenovo,NEW,16.34,52,ON-SITE,LENOVO IDEAPAD GAMING MODERN BACKPACK BLACK
+4ZF1B20559,Lenovo,NEW,314.63,29,ON-SITE,"Lenovo InStoreScreen InTOUCH156B 15.6"" FHD 450 nits Touchscreen with HDMI and USB-C 4ZF1B20559"
+83K700HKPB,Lenovo,NEW,522.71,299,ON-SITE,"Lenovo IdeaPad Slim 3 15ARP10 Ryzen 5 1500 15.3"" WUXGA IPS 300 nits AG 16GB DDR5 4800 512GB SSD Radeon 660M 720p webcam 60Wh battery Windows 11 Cosmic Blue"
+83K700B0PB,Lenovo,NEW,498.52,53,ON-SITE,"Lenovo IdeaPad Slim 3 15ARP10 AMD Ryzen™ 5 7535HS Laptop 38.9 cm (15.3"") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Home Blue"
+83UR004VPB,Lenovo,NEW,750.39,22,ON-SITE,"Lenovo IdeaPad Slim 3 15IPH11 Ultra 5 322 15.3"" WUXGA IPS 60Hz 400 nits AG 16GB DDR5 5600 512GB SSD Intel Graphics 1080p+IR webcam 60Wh Windows 11 Cosmic Blue"
+82X700GRPB,Lenovo,NEW,408.97,83,ON-SITE,"Lenovo IdeaPad Slim 3 15IRU8 i3-1315U 15.6"" FHD IPS 300nits AG 8GB LPDDR5-4800 SSD512 Intel UHD Graphics 47Wh Win11 Abyss Blue"
+83K8006XPB,Lenovo,NEW,522.71,18,ON-SITE,"Lenovo IdeaPad Slim 3 16ARP10 AMD Ryzen™ 5 7535HS Laptop 40,6 cm (16"") WUXGA 16 GB DDR5-SDRAM 1 TB SSD Wi-Fi 6 (802.11ax) English Grey"
+83K8006VPB,Lenovo,NEW,605.06,24,ON-SITE,"Lenovo IdeaPad Slim 3 16ARP10 AMD Ryzen™ 5 7535HS Laptop 40,6 cm (16"") WUXGA 16 GB DDR5-SDRAM 1 TB SSD Wi-Fi 6 (802.11ax) English Win11 Grey"
+83K8006YPB,Lenovo,NEW,471.93,54,ON-SITE,"Lenovo IdeaPad Slim 3 16ARP10 AMD Ryzen™ 5 7535HS Laptop 40,6 cm (16"") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) English Grey"
+83K8006WPB,Lenovo,NEW,561.49,27,ON-SITE,"Lenovo IdeaPad Slim 3 16ARP10 AMD Ryzen™ 5 7535HS Laptop 40,6 cm (16"") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Win11 English Grey"
+83K700HLPB,Lenovo,NEW,532.5,22,ON-SITE,"Lenovo IdeaPad Slim 3 15ARP10 Ryzen 5 150 15.3"" WUXGA IPS 300 nits 60Hz AG 16GB DDR5 4800 512GB SSD Radeon 660M Graphics 720p webcam 50Wh No OS Luna Grey"
+66E4UAC1WL,Lenovo,NEW,107.74,1,ON-SITE,"Lenovo L15 39.6 cm (15.6"") 1920 x 1080 pixels Full HD LED Black, Grey"
+67E3KAC6EU,Lenovo,NEW,84.54,112,ON-SITE,"Lenovo L24-45 23.8"" FHD 144Hz 250 nits 4 ms AG HDMI VGA Cloud Grey"
+68C2KAC1EU,Lenovo,NEW,65.14,93,ON-SITE,"Lenovo L24-4e computer monitor 60.5 cm (23.8"") 1920 x 1080 pixels Full HD LCD Black"
+67E4KAC1EU,Lenovo,NEW,108.73,43,ON-SITE,"Lenovo L27-45 computer monitor 68.6 cm (27"") 1920 x 1080 pixels Full HD LED Grey"
+68CDKAC1EU,Lenovo,NEW,77.35,17,ON-SITE,"Lenovo L27-4e computer monitor 68.6 cm (27"") 1920 x 1080 pixels Full HD LCD Black"
+83Q7002FPB,Lenovo,NEW,1186.16,45,ON-SITE,"Lenovo Legion 5 15AHP11 Ryzen 7 250 15.3"" WQXGA OLED 500 nits 165 Hz Glossy 16 GB DDR5 5600 512 GB SSD GeForce RTX 5050 8 GB 5.0 MP camera 80 Wh No OS Eclipse Black"
+83Q7002APB,Lenovo,NEW,1253.93,45,ON-SITE,"Lenovo Legion 5 15AHP11 Ryzen 7 250 15.3"" WQXGA OLED 500 nits 165 Hz Glossy 16 GB DDR5 5600 512 GB SSD GeForce RTX 5060 8 GB 5.0 MP camera 80 Wh No OS Eclipse Black"
+83NN000VPB,Lenovo,NEW,1672.69,1,ON-SITE,"Lenovo Legion Pro 5 16IRX10 Intel® Core™ i9 i9-14900HX Laptop 40.6 cm (16"") WQXGA 32 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 5060 Wi-Fi 6 (802.11ax) NoOS Black"
+90YJ005GPL,Lenovo,NEW,1428.23,5,ON-SITE,Lenovo Legion T5 30AGB10 Ryzen 5 7600 32GB DDR5 5600 1TB SSD GeForce RTX 5060 Ti 8GB WLAN+BT No OS Eclipse Black
+90YJ005JPL,Lenovo,NEW,1500.78,5,ON-SITE,Lenovo Legion T5 30AGB10 Ryzen 5 7600 32GB DDR5 5600 1TB SSD GeForce RTX 5060 Ti 8GB Wi-Fi + Bluetooth Windows 11 Eclipse Black
+90YJ005KPL,Lenovo,NEW,1786.43,5,ON-SITE,Lenovo Legion T5 30AGB10 Ryzen 5 7600 32GB DDR5 5600 1TB SSD GeForce RTX 5070 12GB WLAN+BT Windows 11 Eclipse Black
+83Q6002KPB,Lenovo,NEW,1486.41,10,ON-SITE,"Lenovo Legion 5 15AGP11 Ryzen AI 7 450 15.3"" WQXGA OLED 500 nits 165 Hz Glossy 16 GB DDR5 5600 512 GB SSD GeForce RTX 5060 8 GB 5.0 MP + IR 80 Wh Windows 11 Glacier White"
+GX41U39298,Lenovo,NEW,36.17,9,ON-SITE,"Lenovo GX41U39298 laptop case 40.6 cm (16"") Backpack Black, Yellow"
+GX41M53147,Lenovo,NEW,45.98,27,ON-SITE,"Lenovo GX41M53147 laptop case 40.6 cm (16"") Backpack Black"
+GX40V10007,Lenovo,NEW,55.56,102,ON-SITE,"Lenovo GX40V10007 notebook case 43.9 cm (17.3"") Backpack Black"
+68C4GAC4EU,Lenovo,NEW,94.34,10,ON-SITE,"Lenovo Legion 24-10 computer monitor 60.5 cm (23.8"") 1920 x 1080 pixels Full HD LCD Black"
+67D4GAC3EU,Lenovo,NEW,130.51,66,ON-SITE,"Lenovo Legion 25-10 computer monitor 62.2 cm (24.5"") 1920 x 1080 pixels Full HD LCD Black"
+68C5GAC4EU,Lenovo,NEW,123.32,70,ON-SITE,"Lenovo Legion 27-10 computer monitor 68.6 cm (27"") 1920 x 1080 pixels Full HD LCD Black"
+67E1GAC1EU,Lenovo,NEW,326.6,35,ON-SITE,Lenovo Legion 27Q-10 OLED Monitor
+68C6GAC4EU,Lenovo,NEW,162.1,183,ON-SITE,"Lenovo Legion 27Q-10 computer monitor 68.6 cm (27"") 2560 x 1440 pixels Quad HD LED Black"
+67D2UAC1EU,Lenovo,NEW,186.29,10,ON-SITE,"Lenovo Legion 27QD-10 computer monitor 68.6 cm (27"") 2560 x 1440 pixels Quad HD LCD Black"
+GX41C86982,Lenovo,NEW,36.17,12,ON-SITE,LENOVO ACC Legion Active Backpack GX41C86982
+GY40T26478,Lenovo,NEW,63.19,19,ON-SITE,"Lenovo Legion K500 keyboard Gaming USB QWERTY US English Black, Grey"
+GX31N91913,Lenovo,NEW,57.95,1,ON-SITE,Lenovo GX31N91913 keyboard Mouse included Gaming USB US English Black
+GY51C96033,Lenovo,NEW,38.56,7,ON-SITE,Lenovo Legion M600 Wireless Gaming mouse Ambidextrous RF Wireless + Bluetooth + USB Type-A Optical 16000 DPI
+68CFGACBEU,Lenovo,NEW,362.99,63,ON-SITE,"Lenovo Legion Pro 27Q-10 computer monitor 67.3 cm (26.5"") 2560 x 1440 pixels Quad HD QD-OLED Black, Grey"
+69D0GACBEU,Lenovo,NEW,508.32,35,ON-SITE,"Lenovo Legion Pro 32UD-10 computer monitor 80 cm (31.5"") 3840 x 2160 pixels 4K Ultra HD QD-OLED Black, Grey"
+67B6GAC1EU,Lenovo,NEW,130.51,221,ON-SITE,"Lenovo Legion R27fc-30 LED display 68.6 cm (27"") 1920 x 1080 pixels Full HD Black"
+GX20Z46287,Lenovo,NEW,50.12,38,ON-SITE,Lenovo GX20Z46287 power adapter/inverter Indoor 170 W Black
+GX20Z46306,Lenovo,NEW,70.15,13,ON-SITE,LENOVO LEGION SLIM 230W AC ADAPTER (CE)
+90YJ002JPL,Lenovo,NEW,1694.49,2,ON-SITE,Lenovo Legion T5 30AGB10 AMD Ryzen™ 7 7700X 32 GB DDR5-SDRAM 2 TB SSD NVIDIA GeForce RTX 5060 Ti Windows 11 Home Tower PC Black
+90YJ002HPL,Lenovo,NEW,2154.43,4,ON-SITE,Lenovo Legion T5 30AGB10 Ryzen 7 7700X 32GB DDR5 5600 2TB SSD GeForce RTX 5070 12GB Windows 11 Eclipse Black
+90YA006CPL,Lenovo,NEW,1428.23,4,ON-SITE,Lenovo Legion T5 30IAS10 Ultra 5 225 32GB DDR5 5600 SSD1TB GeForce RTX 5060 Ti 8GB 500W NoOS Eclipse Black
+90YA006BPL,Lenovo,NEW,1524.97,3,ON-SITE,Lenovo Legion T5 30IAS10 Ultra 5 225 32GB DDR5 5600 SSD1TB GeForce RTX 5060 Ti 8GB 500W Win11 Eclipse Black
+90YE001NPL,Lenovo,NEW,1694.49,8,ON-SITE,Lenovo Legion T5 30IAX10 Intel Core Ultra 7 255HX 32 GB DDR5-SDRAM 2 TB SSD NVIDIA GeForce RTX 5060 Ti NoOS Tower PC Black
+90YE0018PL,Lenovo,NEW,1718.67,8,ON-SITE,Lenovo Legion T5 30IAX10 Intel Core Ultra 7 255HX 32 GB DDR5-SDRAM 2 TB SSD NVIDIA GeForce RTX 5060 Ti Windows 11 Home Tower PC Black
+90YE001APL,Lenovo,NEW,2418.29,8,ON-SITE,Lenovo Legion T5 30IAX10 Intel Core Ultra 7 255HX 32 GB DDR5-SDRAM 2 TB SSD NVIDIA GeForce RTX 5070 Ti Windows 11 Home Tower PC Black
+90YE001PPL,Lenovo,NEW,1786.43,8,ON-SITE,Lenovo Legion T5 30IAX10 Ultra 9 275HX 32GB DDR5 5600 SSD2TB GeForce RTX 5060 Ti 8GB 850W NoOS Eclipse Black
+90YE0019PL,Lenovo,NEW,1958.34,5,ON-SITE,Lenovo Legion T5 30IAX10 Intel Core Ultra 7 255HX 32 GB DDR5-SDRAM 2 TB SSD NVIDIA GeForce RTX 5070 Windows 11 Home Tower PC Black
+40AWGN65EU,Lenovo,NEW,33.77,8,ON-SITE,Lenovo 40AWGN65EU power adapter/inverter Indoor Black
+83JG000QPB,Lenovo,NEW,893.1,44,ON-SITE,"Lenovo LOQ 15AHP10 AMD Ryzen™ 5 220 Laptop 39.6 cm (15.6"") Full HD 16 GB DDR5-SDRAM 512 GB SSD NVIDIA GeForce RTX 5050 Wi-Fi 6 (802.11ax) Windows 11 Home Grey"
+83JG003CPB,Lenovo,NEW,871.32,25,ON-SITE,"Lenovo LOQ 15AHP10 Ryzen 5 220 15.6"" FHD IPS 300 nits 144 Hz AG 32 GB DDR5 5600 SSD 512 GeForce RTX 5050 8 GB 60 Wh NoOS Luna Grey"
+83TN006BPB,Lenovo,NEW,1186.16,22,ON-SITE,"Lenovo LOQ 15AHP11 Ryzen 7 2500 15.3"" WUXGA IPS 300 nits 165Hz LBL AG 16GB DDR5 5600 512GB SSD GeForce RTX 5050 8GB 5.0MP camera 60Wh Win11 Surge Green"
+83DX00F1PB,Lenovo,NEW,653.43,226,ON-SITE,"Lenovo LOQ 15AHP9 Ryzen 7 7445HS 15.6"" FHD IPS 144Hz 300nits AG 16GB DDR5 5600 SSD512 GeForce RTX 3050 6GB Cam720p 60Wh NoOS Luna Grey"
+83VA000XPB,Lenovo,NEW,1055.43,75,ON-SITE,"Lenovo LOQ Essential 15ARP11 Ryzen 7 170 15.6"" FHD IPS 300 nits 144Hz AG 16GB DDR5 4800 512GB SSD GeForce RTX 5060 8GB 720p webcam 60Wh No OS Luna Grey"
+83JC00N7PB,Lenovo,NEW,774.58,44,ON-SITE,"Lenovo LOQ 15ARP9 AMD Ryzen™ 5 7235HS Laptop 39.6 cm (15.6"") Full HD 16 GB DDR5-SDRAM 512 GB SSD NVIDIA GeForce RTX 4050 Wi-Fi 6 (802.11ax) NoOS Grey"
+83JC00N6PB,Lenovo,NEW,861.73,89,ON-SITE,"Lenovo LOQ 15ARP9 AMD Ryzen™ 5 7235HS Laptop 39.6 cm (15.6"") Full HD 16 GB DDR5-SDRAM 512 GB SSD NVIDIA GeForce RTX 4050 Wi-Fi 6 (802.11ax) Windows 11 Home Grey"
+83JE008FPB,Lenovo,NEW,948.88,35,ON-SITE,"Lenovo LOQ 15IRX10 i5-13450HX 15.6"" FHD IPS 300 nits AG 144 Hz 16 GB DDR5 4800 SSD 512 GeForce RTX 5060 8 GB 60 Wh NoOS Luna Grey"
+83JE0087PB,Lenovo,NEW,968.28,55,ON-SITE,"Lenovo LOQ 15IRX10 Intel® Core™ i5 i5-13450HX Laptop 39.6 cm (15.6"") Full HD 16 GB DDR5-SDRAM 512 GB SSD NVIDIA GeForce RTX 5060 Wi-Fi 6 (802.11ax) Windows 11 Home Grey"
+83JE007NPB,Lenovo,NEW,1057.82,3,ON-SITE,"Lenovo LOQ 15IRX10 Intel® Core™ i5 i5-13450HX Laptop 39.6 cm (15.6"") Full HD 16 GB DDR5-SDRAM 1 TB SSD NVIDIA GeForce RTX 5050 Wi-Fi 6 (802.11ax) Windows 11 Home Grey"
+91DF004UPL,Lenovo,NEW,1612.12,1,ON-SITE,Lenovo LOQ Tower 26ADR10 Ryzen 7 8745HX 32GB DDR5 5200 1TB SSD GeForce RTX 5070 12GB Windows 11 Luna Grey / Eclipse Black
+4Y51R29290,Lenovo,NEW,42.49,7,ON-SITE,Lenovo 4Y51R29290 mouse Universal Ambidextrous Bluetooth + USB Type-C Optical 2400 DPI
+4Y51C21216,Lenovo,NEW,31.37,135,ON-SITE,Lenovo Go mouse Office Ambidextrous RF Wireless Optical 2400 DPI
+4XW1S62315,Lenovo,NEW,43.36,30,ON-SITE,Lenovo 4XW1S62315 wireless presenter Bluetooth/RF Black
+4X40T84058,Lenovo,NEW,15.04,16,ON-SITE,"Lenovo B210 39.6 cm (15.6"") Backpack Grey"
+4XW1S62316,Lenovo,NEW,28.11,5,ON-SITE,Lenovo 4XW1S62316 remote control Bluetooth Universal Press buttons
+4XB1T88410,Lenovo,NEW,217.67,5,ON-SITE,Lenovo 4XB1T88410 external solid state drive 1 TB USB Type-C 3.2 Gen 2 (3.1 Gen 2) Grey
+4XB1T88413,Lenovo,NEW,348.4,3,ON-SITE,Lenovo 4XB1T88413 external solid state drive 2 TB USB Type-C 3.2 Gen 2 (3.1 Gen 2) Grey
+4XC1Q25245,Lenovo,NEW,72.56,3,ON-SITE,Lenovo 4XC1Q25245 webcam 4 MP 1920 x 1080 pixels USB-C Black
+68CCGAC1EU,Lenovo,NEW,92.6,247,ON-SITE,"Lenovo Legion R27s computer monitor 68.6 cm (27"") 1920 x 1080 pixels Full HD LED Black"
+4Y41R69494,Lenovo,NEW,60.36,34,ON-SITE,"Lenovo 4Y41R69494 keyboard Home/Office Bluetooth US English Black, Green"
+4Y41R69489,Lenovo,NEW,65.14,5,ON-SITE,"Lenovo 4Y41R69489 keyboard Home/Office Bluetooth US English Black, Green"
+GX21F23046,Lenovo,NEW,84.54,31,ON-SITE,Lenovo GX21F23046 power adapter/inverter Indoor/outdoor Black
+888015471,Lenovo,NEW,33.99,52,ON-SITE,Lenovo DB65 optical disc drive DVD±RW Black
+4Z21P90188,Lenovo,NEW,174.08,8,ON-SITE,Lenovo EPOS 4Z21P90188 Audio Headphones
+4Z21P90191,Lenovo,NEW,174.08,6,ON-SITE,Lenovo EPOS ADAPT 561 II Headset Wired & Wireless Head-band Office/Call center USB Type-C Bluetooth Black
+4XD1K97400,Lenovo,NEW,19.39,5,ON-SITE,Lenovo ThinkVision MS30 (S) Black 2.0 channels 4 W
+64A4MATXEU,Lenovo,NEW,129.64,16,ON-SITE,"Lenovo ThinkVision T24-40 LED display 60.5 cm (23.8"") 1920 x 1080 pixels Full HD LCD Black"
+ZAEJ0034PL,Lenovo,NEW,145.76,193,ON-SITE,"Lenovo Tab Mediatek Helio G85 64 GB 25.6 cm (10.1"") 4 GB LTE Wi-Fi 5 (802.11ac) Android 14 Grey"
+ZAEH0049SE,Lenovo,NEW,87.1,1,ON-SITE,"Lenovo Tab Mediatek 128 GB 25.6 cm (10.1"") 4 GB Wi-Fi 5 (802.11ac) Android 14 Grey"
+ZAGJ0424PL,Lenovo,NEW,273.45,6,ON-SITE,"Lenovo Tab K12 Mediatek 256 GB 30.7 cm (12.1"") 12 GB Wi-Fi 5 (802.11ac) Android 15 Grey"
+ZAGJ0564PL,Lenovo,NEW,278.23,7,ON-SITE,"Lenovo Tab K12 Mediatek 256 GB 30.7 cm (12.1"") 12 GB Wi-Fi 5 (802.11ac) Android 15 Grey"
+ZAC30032ES,Lenovo,NEW,68.61,1,ON-SITE,"Lenovo Tab M9 Mediatek 64 GB 22.9 cm (9"") 4 GB Wi-Fi 5 (802.11ac) Android 12 Grey"
+ZAF00253PL,Lenovo,NEW,125.71,185,ON-SITE,"Lenovo Tab One Mediatek 128 GB 22.1 cm (8.7"") 4 GB Wi-Fi 5 (802.11ac) Android 14 Grey"
+21SQ0016PB,Lenovo,NEW,1186.16,2,ON-SITE,"Lenovo ThinkBook 14 2-in-1 G5 IAU Intel Core Ultra 5 225U Hybrid (2-in-1) 35.6 cm (14"") Touchscreen WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Grey"
+21SJ0089PB,Lenovo,NEW,988.97,20,ON-SITE,"Lenovo ThinkBook 14 G8 IAL Intel Core Ultra 7 255H Laptop 35.6 cm (14"") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Grey"
+21UY007EPB,Lenovo,NEW,936.68,50,ON-SITE,"Lenovo ThinkBook 14 G9 IRL Intel Core 5 210H Laptop 35.6 cm (14"") Full HD 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro English Grey"
+21MW000UPB,Lenovo,NEW,980.26,20,ON-SITE,"Lenovo ThinkBook 16 G7 ARP AMD Ryzen™ 7 7735HS Laptop 40.6 cm (16"") WUXGA 16 GB DDR5-SDRAM 1 TB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Grey"
+21MW0077PB,Lenovo,NEW,968.28,23,ON-SITE,"Lenovo ThinkBook 16 G7 ARP AMD Ryzen™ 7 7735HS Laptop 40.6 cm (16"") WUXGA 16 GB DDR5-SDRAM 1 TB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro Grey"
+21SK00JPPB,Lenovo,NEW,839.95,6,ON-SITE,"Lenovo ThinkBook 16 G8 IAL Intel Core Ultra 5 135H Laptop 40.6 cm (16"") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Grey"
+21SK008NPB,Lenovo,NEW,1045.62,55,ON-SITE,"Lenovo ThinkBook 16 G8 IAL Intel Core Ultra 7 255H Laptop 40.6 cm (16"") WUXGA 16 GB DDR5-SDRAM 1 TB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Grey"
+21SK009RPB,Lenovo,NEW,1206.86,39,ON-SITE,"Lenovo ThinkBook 16 G8 IAL Intel Core Ultra 7 255H Laptop 40.6 cm (16"") WUXGA 32 GB DDR5-SDRAM 1 TB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Grey"
+21US0073PB,Lenovo,NEW,900.52,45,ON-SITE,"Lenovo ThinkBook 16 G9 IRL Intel Core 5 210H Laptop 40.6 cm (16"") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro Grey"
+21US007PPB,Lenovo,NEW,1045.62,50,ON-SITE,"Lenovo ThinkBook 16 G9 IRL Intel Core 7 240H Laptop 40.6 cm (16"") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro English Grey"
+21QX00HEPB,Lenovo,NEW,2287.56,3,ON-SITE,"Lenovo ThinkPad T14s Gen 6 (Intel) Copilot+ PC Intel Core Ultra 7 258V Laptop 35.6 cm (14"") Touchscreen WUXGA 32 GB LPDDR5x-SDRAM 1 TB SSD Wi-Fi 7 (802.11be) Windows 11 Pro English Black"
+12TD000HPB,Lenovo,NEW,866.52,12,ON-SITE,Lenovo ThinkCentre M70q Gen 5 Intel® Core™ i7 i7-14700T 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Mini PC Black
+12YH001WPB,Lenovo,NEW,847.13,7,ON-SITE,Lenovo ThinkCentre M70t Gen 6 Intel Core Ultra 5 235 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Tower PC Black
+13DK000YPB,Lenovo,NEW,726.21,55,ON-SITE,"Lenovo ThinkCentre neo 30s Gen 5 Intel® Core™ i5 i5-13420H 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro SFF PC Black, Grey"
+13DK0016PB,Lenovo,NEW,779.37,33,ON-SITE,"Lenovo ThinkCentre neo 30s Gen 5 Intel® Core™ i7 i7-13620H 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro SFF PC Black, Grey"
+12SB005DPB,Lenovo,NEW,869.14,7,ON-SITE,"Lenovo ThinkCentre neo 50a 27 Gen 5 Intel Core 5 210H 68.6 cm (27"") 1920 x 1080 pixels All-in-One PC 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Wi-Fi 6 (802.11ax) Grey"
+12SD0060PB,Lenovo,NEW,871.32,24,ON-SITE,"Lenovo ThinkCentre neo 50a 24 Gen 5 Intel Core 5 210H 60.5 cm (23.8"") 1920 x 1080 pixels Touchscreen All-in-One PC 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Wi-Fi 6 (802.11ax) Grey"
+12SB004EPB,Lenovo,NEW,944.09,14,ON-SITE,"Lenovo ThinkCentre neo 50a 27 Gen 5 Intel Core 5 210H 68.6 cm (27"") 1920 x 1080 pixels Touchscreen All-in-One PC 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Wi-Fi 6 (802.11ax) Grey"
+12SB001PPB,Lenovo,NEW,910.1,8,ON-SITE,"Lenovo ThinkCentre neo 50a 27 Gen 5 Intel® Core™ i5 i5-13420H 68.6 cm (27"") 1920 x 1080 pixels Touchscreen All-in-One PC 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Wi-Fi 6 (802.11ax) Grey"
+12LN0025PB_16,Lenovo,NEW,704.41,11,ON-SITE,Lenovo ThinkCentre neo 50q Intel® Core™ i5 i5-13420H 16 GB DDR4-SDRAM 512 GB SSD Windows 11 Pro Mini PC Black
+13B9001FPB,Lenovo,NEW,836.45,10,ON-SITE,Lenovo ThinkCentre neo 50q Gen 5 Intel Core 5 210H 32 GB DDR5-SDRAM 1 TB SSD Windows 11 Pro Mini PC Black
+13B9000UPB,Lenovo,NEW,936.68,11,ON-SITE,Lenovo ThinkCentre neo 50q Gen 5 Intel Core 7 240H 32 GB DDR5-SDRAM 1 TB SSD Windows 11 Pro Mini PC Black
+12XF0029PB,Lenovo,NEW,614.87,30,ON-SITE,"Lenovo ThinkCentre neo 50s Gen 5 Intel® Core™ i3 i3-14100 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro SFF PC Black, Grey"
+12XF002BPB,Lenovo,NEW,753.66,14,ON-SITE,"Lenovo ThinkCentre neo 50s Gen 5 Intel® Core™ i5 i5-14400 16 GB DDR5-SDRAM 1 TB SSD Windows 11 Pro SFF PC Black, Grey"
+12XD000CPB,Lenovo,NEW,784.16,42,ON-SITE,"Lenovo ThinkCentre neo 50s Gen 5 Intel® Core™ i5 i5-14400 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro SFF PC Black, Grey"
+13DM002APB,Lenovo,NEW,890.93,3,ON-SITE,Lenovo ThinkCentre Neo 50s SFF Ultra 7 265 16GB DDR5 5600 512GB SSD Intel Graphics DVD-RW Windows 11 Pro Raven Black 3-year On-site warranty
+13BD0035PB,Lenovo,NEW,753.66,20,ON-SITE,Lenovo ThinkCentre neo 50t Gen 6 Intel Core Ultra 5 225 16 GB DDR5-SDRAM 512 GB SSD Windows 11 Pro Tower PC Black
+4Y50X88824,Lenovo,NEW,21.57,28,ON-SITE,Lenovo ThinkBook mouse Office Ambidextrous Bluetooth Optical 2400 DPI
+4X41H03365,Lenovo,NEW,21.57,2,ON-SITE,"Lenovo 4X41H03365 notebook case 33 cm (13"") Sleeve case Grey"
+4X40N18009,Lenovo,NEW,25.27,7,ON-SITE,"Lenovo 4X40N18009 laptop case 35.6 cm (14"") Sleeve case Black"
+4X40Y95214,Lenovo,NEW,15.04,76,ON-SITE,"Lenovo 15.6"" Toploader bag"
+4X41V20931,Lenovo,NEW,86.93,7,ON-SITE,"Lenovo ThinkPad 16"" Click-Go 40.6 cm (16"") Backpack Black, Dark Grey"
+4X40H57287,Lenovo,NEW,26.58,11,ON-SITE,"Lenovo 4X40H57287 laptop case 35.8 cm (14.1"") Briefcase Black"
+4X71D09532,Lenovo,NEW,72.56,79,ON-SITE,Lenovo 4X71D09532 memory module 8 GB 1 x 8 GB DDR4 3200 MHz
+4X41C12469,Lenovo,NEW,20.92,135,ON-SITE,"Lenovo ThinkPad Essential 16-inch Topload (Eco) 40.6 cm (16"") Toploader bag Black"
+4X41P80268,Lenovo,NEW,143.8,2,ON-SITE,"Lenovo ThinkPad Executive 16"" 40.6 cm (16"") Backpack Navy"
+21L5002MPB,Lenovo,NEW,1045.62,11,ON-SITE,"Lenovo ThinkPad L14 Gen 5 (AMD) AMD Ryzen™ 7 PRO 7735U Laptop 35.6 cm (14"") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Black"
+4X41M69794,Lenovo,NEW,77.35,2,ON-SITE,Lenovo ThinkPad Professional 16-inch Gen 2 backpack Casual backpack Black Plastic
+4X41M69795,Lenovo,NEW,56.43,1,ON-SITE,"Lenovo ThinkPad Professional 16-inch Topload Gen 2 40.6 cm (16"") Toploader bag Black"
+4X41L51715,Lenovo,NEW,28.11,1,ON-SITE,"Lenovo 4X41L51715 laptop case 33 cm (13"") Sleeve case Black"
+21QC004YPB,Lenovo,NEW,1537.17,1,ON-SITE,"Lenovo ThinkPad T14 Gen 6 (Intel) Intel Core Ultra 7 255U Laptop 35.6 cm (14"") WUXGA 16 GB DDR5-SDRAM 1 TB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Black"
+21QE0048PB,Lenovo,NEW,1573.56,11,ON-SITE,"Lenovo ThinkPad T16 Gen 4 (Intel) Intel Core Ultra 7 255U Laptop 40.6 cm (16"") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Black"
+40AY0090EU,Lenovo,NEW,140.32,71,ON-SITE,Lenovo 40AY0090EU notebook dock/port replicator Wired USB 3.2 Gen 1 (3.1 Gen 1) Type-C Black
+21Q60005PB,Lenovo,NEW,1621.93,3,ON-SITE,"Lenovo ThinkPad X9-15 Gen 1 Copilot+ PC Intel Core Ultra 5 228V Laptop 38.9 cm (15.3"") 2.8K 32 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro English Grey"
+64BCMAT4EU,Lenovo,NEW,108.73,40,ON-SITE,Lenovo ThinkVision E27-40 Monitor
+64B9GAT1EU,Lenovo,NEW,181.5,32,ON-SITE,Lenovo ThinkVision T24D-40 Monitor
+64A5ZAT6EU,Lenovo,NEW,162.1,22,ON-SITE,"Lenovo ThinkVision T27-40 LED display 68.6 cm (27"") 1920 x 1080 pixels Full HD Black"
+21U2002CPB,Lenovo,NEW,1166.77,1,ON-SITE,"Lenovo ThinkPad E14 Gen 7 (Intel) Copilot+ PC Intel Core Ultra 5 228V Laptop 35.6 cm (14"") WUXGA 32 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Black"
+22AY001WPB,Lenovo,NEW,1011.85,43,ON-SITE,"Lenovo ThinkPad E16 Gen 3 (Intel) Copilot+ PC Intel Core Ultra 5 226V Laptop 40.6 cm (16"") WUXGA 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Black"
+21SR0071PB,Lenovo,NEW,1394.23,5,ON-SITE,"Lenovo ThinkPad E16 Gen 3 (Intel) Intel Core Ultra 7 255H Laptop 40.6 cm (16"") WQXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Black"
+22AY0089PB,Lenovo,NEW,1459.6,5,ON-SITE,"Lenovo ThinkPad E16 Gen 3 (Intel) Copilot+ PC Intel Core Ultra 7 258V Laptop 40.6 cm (16"") WUXGA 32 GB LPDDR5x-SDRAM 1 TB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Black"
+22AY0088PB,Lenovo,NEW,1328.88,5,ON-SITE,"Lenovo ThinkPad E16 Gen 3 (Intel) Copilot+ PC Intel Core Ultra 7 258V Laptop 40.6 cm (16"") WUXGA 32 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Black"
+4X41C12468,Lenovo,NEW,24.18,25,ON-SITE,"Lenovo ThinkPad Essential 16-inch Backpack (Eco) 40.6 cm (16"") Black"
+21S8002TPB,Lenovo,NEW,1010.77,7,ON-SITE,"Lenovo ThinkPad L14 Gen 6 (AMD) AMD Ryzen™ 5 PRO PRO 215 Laptop 35.6 cm (14"") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Pro English Black"
+21KV0023PB,Lenovo,NEW,2822.69,4,ON-SITE,"Lenovo ThinkPad P1 Gen 7 Intel Core Ultra 7 165H Mobile workstation 40.6 cm (16"") WQXGA 32 GB LPDDR5x-SDRAM 1 TB SSD NVIDIA GeForce RTX 4070 Wi-Fi 7 (802.11be) Windows 11 Pro English Black"
+21KV0028PB,Lenovo,NEW,2505.45,1,ON-SITE,"Lenovo ThinkPad P1 Gen 7 Intel Core Ultra 9 185H Mobile workstation 40.6 cm (16"") Touchscreen WQUXGA 64 GB LPDDR5x-SDRAM 2 TB SSD NVIDIA GeForce RTX 4070 Wi-Fi 7 (802.11be) Windows 11 Pro English Blac"
+21FA000TPB,Lenovo,NEW,2788.69,1,ON-SITE,"Lenovo ThinkPad P16 Intel® Core™ i7 i7-13850HX Mobile workstation 40.6 cm (16"") WQXGA 32 GB DDR5-SDRAM 1 TB SSD NVIDIA RTX 3500 Ada Wi-Fi 6E (802.11ax) Windows 11 Pro Grey, Black"
+21R30040PB,Lenovo,NEW,1621.93,24,ON-SITE,"Lenovo ThinkPad T14s 2-in-1 Gen 1 Intel Core Ultra 5 225U Hybrid (2-in-1) 35.6 cm (14"") Touchscreen WUXGA 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Black"
+21LTS33200,Lenovo,NEW,1036.04,25,ON-SITE,"Lenovo ThinkPad T14s Gen 5 Intel Core Ultra 5 125U Laptop 35.6 cm (14"") WUXGA 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro Black"
+21QE00A4PB,Lenovo,NEW,1808.21,5,ON-SITE,"Lenovo ThinkPad T16 Gen 4 (Intel) Copilot+ PC Intel Core Ultra 5 225U Laptop 40.6 cm (16"") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Black"
+21QA0025PB,Lenovo,NEW,1936.55,13,ON-SITE,"Lenovo ThinkPad X9-14 Gen 1 Copilot+ PC Intel Core Ultra 7 258V Laptop 35.6 cm (14"") 2.8K 32 GB LPDDR5x-SDRAM 1 TB SSD Wi-Fi 7 (802.11be) Windows 11 Pro English Grey"
+63F2-RAR3WW,Lenovo,NEW,383.23,1,ON-SITE,Lenovo ThinkVision P34w-20 Monitor
+63DFKAT4EU,Lenovo,NEW,113.74,8,ON-SITE,"Lenovo ThinkVision S27i-30 LED display 68.6 cm (27"") 1920 x 1080 pixels Full HD Grey"
+GXD1N63507,Lenovo,NEW,38.56,296,ON-SITE,Lenovo TWS Yoga PC Edition Headset True Wireless Stereo (TWS) In-ear Calls/Music Bluetooth Teal
+GX20N20875,Lenovo,NEW,18.52,184,ON-SITE,Lenovo GX20N20875 power adapter/inverter Indoor 45 W Black
+82YU0100RM,Lenovo,NEW,313.55,1,ON-SITE,"Lenovo V15 G4 AMN AMD Ryzen™ 3 7320U Laptop 39.6 cm (15.6"") Full HD 16 GB LPDDR5-SDRAM 512 GB SSD Wi-Fi 5 (802.11ac) English Black"
+83A100ABRM,Lenovo,NEW,442.2,1,ON-SITE,"Lenovo V15 G4 IRU Intel® Core™ i5 i5-13420H Laptop 39.6 cm (15.6"") Full HD 16 GB DDR4-SDRAM 512 GB SSD Wi-Fi 5 (802.11ac) English Black"
+83GW007WRI,Lenovo,NEW,396.98,404,ON-SITE,"Lenovo V15 G5 IRL Intel® Core™ i3 i3-1315U Laptop 39.6 cm (15.6"") Full HD 8 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) English Black"
+83GW009APB,Lenovo,NEW,651.04,115,ON-SITE,"Lenovo V15 G5 IRL Intel® Core™ i5 i5-13420H Laptop 39.6 cm (15.6"") Full HD 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro Black"
+83GW009BPB,Lenovo,NEW,631.64,343,ON-SITE,"Lenovo V15 G5 IRL Intel® Core™ i5 i5-13420H Laptop 39.6 cm (15.6"") Full HD 8 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro Black"
+83GW009DPB,Lenovo,NEW,775.45,20,ON-SITE,"Lenovo V15 G5 IRL Intel® Core™ i7 i7-13620H Laptop 39.6 cm (15.6"") Full HD 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro English Black"
+83A2003WPB,Lenovo,NEW,697.01,154,ON-SITE,"Lenovo V V17 G4 IRU Intel® Core™ i5 i5-13420H Laptop 43.9 cm (17.3"") Full HD 16 GB DDR4-SDRAM 512 GB SSD Wi-Fi 6 (802.11ax) Windows 11 Pro Grey"
+4XD1M45626,Lenovo,NEW,33.77,12,ON-SITE,Lenovo 4XD1M45626 headphones/headset Wired Head-band USB Type-C Black
+4XD1M45627,Lenovo,NEW,52.94,13,ON-SITE,Lenovo 4XD1M45627 headphones/headset Wired Head-band USB Type-C Black
+4Y41S04659,Lenovo,NEW,34.64,1,ON-SITE,Lenovo Wireless Multi-Mode Pro 6000 keyboard Home/Office RF Wireless + Bluetooth QWERTY US English Black
+4Y51S61876,Lenovo,NEW,18.52,6,ON-SITE,Lenovo Pro Plus 6050 mouse Office Ambidextrous RF Wireless + Bluetooth Optical 2400 DPI
+4Y51S61878,Lenovo,NEW,18.3,50,ON-SITE,Lenovo Pro Plus 6050 mouse Office Ambidextrous RF Wireless + Bluetooth Optical 2400 DPI
+83JU000SPB,Lenovo,NEW,1144.98,6,ON-SITE,"Lenovo Yoga 7 2-in-1 16AKP10 Copilot+ PC AMD Ryzen AI 7 350 Hybrid (2-in-1) 40.6 cm (16"") Touchscreen 2.8K 16 GB LPDDR5x-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Home"
+83TF0011PB,Lenovo,NEW,1210.34,10,ON-SITE,"Lenovo Yoga 7 2-in-1 16AGP11 16"" AMD Ryzen AI 7 445 16GB 512GB SSD Windows 11 Home Seashell"
+83TD004HPB,Lenovo,NEW,1186.16,4,ON-SITE,"Lenovo Yoga 7 Gen 11 14AGP11 Ryzen AI 5 435 14"" WUXGA Touch OLED 400 nits 60 Hz Glossy 16 GB LPDDR5X-8000 512 GB SSD Radeon 840M Graphics 5.0 MP + IR 70 Wh Windows 11 Tidal Teal"
+F0HX001VPB,Lenovo,NEW,1808.21,1,ON-SITE,"Lenovo Yoga AIO 32ILL10 Ultra 7 256V 31.5"" UHD IPS 495 nits 16GB LPDDR5X-8533 1TB SSD Intel Arc Graphics 140V 5.0MP camera + IR Windows 11 Pro Storm Grey"
+F0HX0026PB,Lenovo,NEW,1917.16,1,ON-SITE,"Lenovo Yoga AIO 32ILL10 Ultra 7 258V 31.5"" UHD IPS 495 nits 32GB LPDDR5X-8533 1TB SSD Intel Arc Graphics 140V 5.0MP camera + IR Windows 11 Pro Storm Grey"
+GY51S61919,Lenovo,NEW,21.57,19,ON-SITE,Lenovo Yoga mouse Office Ambidextrous Bluetooth Optical 4000 DPI
+67E5RAC2EU,Lenovo,NEW,1079.61,5,ON-SITE,Lenovo Yoga Pro 27UD-10 Monitor
+ZAG60036GR,Lenovo,NEW,375.19,11,ON-SITE,"Lenovo Yoga Tab Snapdragon 256 GB 28.2 cm (11.1"") 12 GB Wi-Fi 7 (802.11be) Android 15 Grey"
+ZAG60132PL,Lenovo,NEW,474.34,7,ON-SITE,"Lenovo Yoga Tab QCM8650Q 11.1"" 3.2K IPS 600 nits 144Hz 8/256GB Adreno 750 WiFi Seashell"
+ZAEG0022PL,Lenovo,NEW,600.27,20,ON-SITE,"Lenovo Yoga Tab Plus Qualcomm Snapdragon 256 GB 32.3 cm (12.7"") 3K 16 GB Wi-Fi 7 (802.11be) Android 14 Teal"
+40AW065BEU,Lenovo,NEW,40.97,9,ON-SITE,Lenovo 40AW065BEU power adapter/inverter Indoor/outdoor 65 W Black
+21MW000TPB,Lenovo,NEW,740.59,15,ON-SITE,"Lenovo ThinkBook 16 G7 ARP AMD Ryzen™ 5 7535HS Laptop 40.6 cm (16"") WUXGA 16 GB DDR5-SDRAM 512 GB SSD Wi-Fi 6E (802.11ax) Windows 11 Pro English Grey"
 LNM990X001T-RNNNG,Lexar,NEW,180.96,5,ON-SITE,Lexar NM990 1 TB M.2 PCI Express 5.0 NVMe
 LNM990X002T-RNNNG,Lexar,NEW,274.99,7,ON-SITE,Lexar NM990 2 TB M.2 PCI Express 5.0 NVMe
 T/LZ08-OPT030/0000,Ever,NEW,11.25,35,ON-SITE,Ever Optima 3m Black 6 AC outlet(s) 250 V
@@ -1570,6 +1966,7 @@ RBSXTsqG-5acD,MikroTik,NEW,48.92,6,ON-SITE,Mikrotik RBSXTsqG-5acD 1000 Mbit/s Wh
 RBSXTsq2nD,MikroTik,NEW,32.72,1,ON-SITE,Mikrotik SXTsq Lite2 100 Mbit/s White Power over Ethernet (PoE)
 RBSXTsq5nD,MikroTik,NEW,34.31,16,ON-SITE,Mikrotik SXTsq Lite5 White Power over Ethernet (PoE)
 JPT/L6/X600/65W,Asrock,NEW,197.03,30,ON-SITE,Asrock Jupiter X600 Mini PC
+MP20-BK/BV/V4,Blackview,NEW,342.76,3,ON-SITE,"Blackview MP20 Mini PC with Ryzen 3 3300U, 8GB RAM, 256GB SSD, Windows 11 Pro, black"
 PTF-51-EXT/PoE/Micro v2,EWIMAR,NEW,31.9,2,ON-SITE,Miniature surge arrester EWIMAR PTF-51-EXT/
 90MS0371-M00030,ASUS,NEW,4336.07,1,ON-SITE,ASUS Ascent GX10 GX10-GG0003BN GB10 128 GB LPDDR5x-SDRAM Mini PC Grey
 PB63-B3203AH,ASUS,NEW,703.05,4,ON-SITE,ASUS PB63-B3203AH Intel® Core™ i3 i3-14100 8 GB DDR5-SDRAM 256 GB SSD Windows 11 Pro Mini PC Black
@@ -1635,9 +2032,39 @@ XG27ACDNG,ASUS,NEW,522.59,1,ON-SITE,"ASUS ROG Strix OLED XG27ACDNG computer moni
 VG328QA1A,ASUS,NEW,176.91,7,ON-SITE,"ASUS TUF Gaming VG328QA1A computer monitor 80 cm (31.5"") 1920 x 1080 pixels Full HD LED Black"
 VY279HGE,ASUS,NEW,143.89,1,ON-SITE,"ASUS VY279HGE computer monitor 68.6 cm (27"") 1920 x 1080 pixels Full HD Black"
 PA27JCV,ASUS,NEW,611.18,8,ON-SITE,"ASUS ProArt PA27JCV computer monitor 68.6 cm (27"") 5120 x 2880 pixels 5K Ultra HD LCD Black"
+DCM6/BV,Blackview,NEW,198.05,5,ON-SITE,"Blackview 14"" portable dual monitor DCM6"
 DHI-LM22-A200Y,DAHUA,NEW,54.14,29,ON-SITE,"Dahua Technology LM22-A200Y computer monitor 54.5 cm (21.4"") 1920 x 1080 pixels Full HD LED Black"
 9S6-3PC4CT-008,MSI,NEW,68.34,162,ON-SITE,"MSI PRO MP252 computer monitor 62.2 cm (24.5"") 1920 x 1080 pixels Full HD LED Black"
 518653,UBIQUITI,NEW,99.65,2,ON-SITE,"Client Device Ubiquiti UDB-EU, Wi-Fi, 1x GbE RJ45"
+PBBE0053PL,Motorola,NEW,382.39,11,ON-SITE,"Motorola edge 70 fusion 17.2 cm (6.78"") Dual SIM Android 16.0 5G USB Type-C 12 GB 256 GB 7000 mAh Light Blue"
+PBBE0052PL,Motorola,NEW,382.39,9,ON-SITE,"Motorola edge 70 fusion 17.2 cm (6.78"") Dual SIM Android 16.0 5G USB Type-C 12 GB 256 GB 7000 mAh Violet"
+PBBE0001PL,Motorola,NEW,382.39,12,ON-SITE,"Motorola edge 70 fusion 17.2 cm (6.78"") Dual SIM Android 16.0 5G USB Type-C 12 GB 256 GB 7000 mAh Black"
+PB7H0014PL,Motorola,NEW,309.83,30,ON-SITE,"Motorola edge 60 16.9 cm (6.67"") Dual SIM Android 15 5G USB Type-C 12 GB 512 GB 5200 mAh Blue"
+PB7H0015PL,Motorola,NEW,309.83,31,ON-SITE,"Motorola edge 60 16.9 cm (6.67"") Dual SIM Android 15 5G USB Type-C 12 GB 512 GB 5200 mAh Green"
+PBC20016RO,Motorola,NEW,491.32,6,ON-SITE,"Motorola Edge 70 Pro 6.78"" Android 16.0 5G USB Type-C 8 GB 256 GB 6500 mAh Pantone Titan"
+PBC20017RO,Motorola,NEW,491.32,1,ON-SITE,"Motorola Edge 70 Pro 6.78"" Android 16.0 5G USB Type-C 8 GB 256 GB 6500 mAh Pantone Zinfandel"
+PG38C07172,Motorola,NEW,130.51,2,ON-SITE,Motorola moto buds loop Headset Wireless Ear-clip-on Calls/Music/Sport/Everyday Bluetooth Beige
+PB9W0003PL,Motorola,NEW,77.35,467,ON-SITE,"Motorola moto G06 6.88"" Dual SIM Android 15 USB Type-C 4 GB 64 GB 7000 mAh Laurel Oak"
+PB9W0005PL,Motorola,NEW,77.35,485,ON-SITE,"Motorola moto G06 6.88"" Dual SIM Android 15 USB Type-C 4 GB 64 GB 7000 mAh Blue"
+PB6E0016PL,Motorola,NEW,103.93,85,ON-SITE,"Motorola moto g15 17.1 cm (6.72"") Dual SIM Android 15 4G USB Type-C 8 GB 128 GB 5200 mAh Green"
+PB6E0062PL,Motorola,NEW,73.7,1,ON-SITE,"Motorola moto g15 17.1 cm (6.72"") Dual SIM Android 15 4G USB Type-C 8 GB 128 GB 5200 mAh Navy"
+PB6G0002PL,Motorola,NEW,115.48,237,ON-SITE,"Motorola moto g15 power 17.1 cm (6.72"") Dual SIM Android 15 4G USB Type-C 8 GB 256 GB 6000 mAh Green"
+PBBM0000PL,Motorola,NEW,244.46,13,ON-SITE,"Motorola moto g17 power 17.1 cm (6.72"") Hybrid Dual SIM Android 15 USB Type-C 8 GB 256 GB 6000 mAh Purple"
+PBAU0033PL,Motorola,NEW,244.46,11,ON-SITE,Motorola Moto G67 5G 8/128 GB smartphone in PANTONE Arctic Seal (grey)
+PBAU0036PL,Motorola,NEW,271.04,14,ON-SITE,"Motorola moto g67 17.3 cm (6.8"") Hybrid Dual SIM Android 16.0 5G USB Type-C 8 GB 256 GB 5200 mAh Grey"
+PBAU0035PL,Motorola,NEW,283.03,11,ON-SITE,Motorola Moto G67 5G 8/256 GB smartphone in PANTONE Nile
+PBAW0024RO,Motorola,NEW,338.81,14,ON-SITE,Motorola Moto G77 5G 12/256 GB smartphone in Pantone Black Olive
+PBAW0025RO,Motorola,NEW,338.81,8,ON-SITE,Motorola Moto G77 5G 12/256 GB smartphone in Pantone Shaded Spruce
+PBAB0004PL,Motorola,NEW,769.78,3,ON-SITE,"Motorola Moto Signature 6.8"" Dual SIM Android USB Type-C 16 GB 512 GB 5200 mAh Black"
+PG38C06062,Motorola,NEW,60.36,21,ON-SITE,"Motorola Moto Tag 4-Pack, Jade Green + Midnight Blue"
+PG38C08264,Motorola,NEW,96.74,11,ON-SITE,"Motorola Moto Watch 3.63 cm (1.43"") OLED 47 mm Digital Touchscreen Silver GPS (satellite)"
+PG38C08254,Motorola,NEW,62.98,1,ON-SITE,"Motorola Moto Watch 3.63 cm (1.43"") OLED 47 mm Digital Touchscreen Black GPS (satellite)"
+PG38C08254,Motorola,NEW,56.28,1,ON-SITE,"Motorola Moto Watch 3.63 cm (1.43"") OLED 47 mm Digital Touchscreen Black GPS (satellite)"
+PG38C07182,Motorola,NEW,41.54,437,ON-SITE,Motorola Moto Watch Fit
+PB1T0002PL,Motorola,NEW,426.12,1,ON-SITE,Motorola Razr 50 Ultra 12/512GB Midnight Blue
+PBB20002PL,Motorola,NEW,1198.14,10,ON-SITE,"Motorola razr 70 ultra 17.7 cm (6.96"") Dual SIM Android 16.0 5G USB Type-C 16 GB 512 GB 5000 mAh Violet"
+PBAX0003PL,Motorola,NEW,1960.73,4,ON-SITE,"Motorola razr fold 20.6 cm (8.09"") Dual SIM Android 16.0 5G USB Type-C 16 GB 512 GB 6000 mAh Black"
+PBAX0007PL,Motorola,NEW,1880.99,5,ON-SITE,"Motorola razr fold 20.6 cm (8.09"") Dual SIM Android 16.0 5G USB Type-C 16 GB 512 GB 6000 mAh White"
 KW9-00648,Microsoft (OEM),NEW,101.58,65,ON-SITE,Microsoft Windows 11 Home 1 license(s)
 FQC-10528,Microsoft (OEM),NEW,131.05,2,ON-SITE,Microsoft Windows 11 Pro OEM
 FQC-10544,Microsoft (OEM),NEW,131.05,33,ON-SITE,Microsoft Windows 11 Pro 1 license(s)
@@ -1655,6 +2082,8 @@ MM04DCINBL000-0,Madcatz,NEW,25.04,1,ON-SITE,Mad Catz M.O.J.O. M1 mouse Right-han
 25041,Trust,NEW,12.06,1,ON-SITE,Trust Mydo Silent mouse Ambidextrous RF Wireless Optical 1800 DPI
 24935,Trust,NEW,41.17,2,ON-SITE,Trust Ozaa+ mouse Office Right-hand RF Wireless + Bluetooth Optical 3200 DPI
 24820,Trust,NEW,42.87,1,ON-SITE,Trust Ozaa+ mouse Office Right-hand RF Wireless + Bluetooth Optical 3200 DPI
+570-ABOC,Dell,NEW,15.04,15,ON-SITE,DELL MS300 mouse Office Ambidextrous RF Wireless Optical 4000 DPI
+570-AAIS,Dell,NEW,10.68,309,ON-SITE,DELL MS116 mouse USB Type-A Optical 1000 DPI Ambidextrous
 25399,Trust,NEW,35.35,2,ON-SITE,Trust Bayo+ mouse Office Right-hand RF Wireless + Bluetooth Optical 2400 DPI
 KRX0115,KRUX,NEW,10.94,2,ON-SITE,Krux Bot RGB Wired modular gaming mouse
 MR01MCINBL000-0,Madcatz,NEW,18.84,14,ON-SITE,Mad Catz R.A.T. 1+ mouse Gaming Right-hand USB Type-A Optical 2000 DPI
@@ -1662,6 +2091,11 @@ MR03MCINBL000-0,Madcatz,NEW,35.35,31,ON-SITE,Mad Catz R.A.T. 4+ mouse Gaming Rig
 22991,Trust,NEW,29.22,2,ON-SITE,Trust GXT 144 Rexx mouse Gaming Right-hand USB Type-A Optical 10000 DPI
 25066,Trust,NEW,11.11,4,ON-SITE,Trust GXT 109W Felox - 6400 DPI optical gaming mouse (white)
 26024,Trust,NEW,29.48,1,ON-SITE,Trust GXT 145 Rexxa mouse Gaming Right-hand USB Type-A 12800 DPI
+GY51F09725,Lenovo,NEW,8.49,98,ON-SITE,Lenovo 530 Wireless Mouse – Platinum Grey
+GY51L15679,Lenovo,NEW,8.49,31,ON-SITE,Lenovo 300 Wireless Compact Maus Kabellos Optisch Blau 3 Tasten 1000 dpi mouse Ambidextrous RF Wireless Optical
+4Y50R20863,Lenovo,NEW,8.49,21,ON-SITE,Lenovo 4Y50R20863 mouse Office Ambidextrous USB Type-A Optical 1600 DPI
+4Y51D20848,Lenovo,NEW,16.78,5,ON-SITE,Lenovo 400 mouse Office Ambidextrous RF Wireless Optical 2400 DPI
+4Y51J62544,Lenovo,NEW,20.69,11,ON-SITE,Lenovo 4Y51J62544 mouse Right-hand Bluetooth Optical 2400 DPI
 910-005508,Logitech,NEW,6.62,118,ON-SITE,Logitech B110 Silent
 910-004798,Logitech,NEW,7.29,872,ON-SITE,Logitech B170 Wireless Mouse
 910-004913,Logitech,NEW,21.02,18,ON-SITE,Logitech M330 SILENT PLUS
@@ -1720,7 +2154,9 @@ MR03MCINBL000-0,Madcatz,NEW,35.35,31,ON-SITE,Mad Catz R.A.T. 4+ mouse Gaming Rig
 910-006253,Logitech,NEW,29.12,129,ON-SITE,Logitech Signature M650 Wireless Mouse
 MR06DCINRD000-0,Madcatz,NEW,76.48,21,ON-SITE,Mad Catz R.A.T 8+ ADV mouse Right-hand USB Type-A Optical 20000 DPI
 MR05DCINBL001-0,Madcatz,NEW,155.73,31,ON-SITE,Mad Catz R.A.T. X3 mouse Right-hand USB Type-A Optical 16000 DPI
+570-AAIP,Dell,NEW,8.28,78,ON-SITE,DELL MS116 mouse Ambidextrous USB Type-A Optical 1000 DPI
 RZ01-05120200-R3G1,RAZER,NEW,112.29,1,ON-SITE,Razer Viper V3 Pro mouse Gaming Right-hand RF Wireless + USB Type-C Optical 35000 DPI
+4Y51D20850,Lenovo,NEW,10.46,3,ON-SITE,Lenovo 4Y51D20850 mouse Ambidextrous USB Type-C Optical 2400 DPI
 25144,Trust,NEW,17.84,3,ON-SITE,Trust Bayo II mouse Right-hand USB Type-A 2400 DPI
 25397,Trust,NEW,20.71,2,ON-SITE,Trust Bayo II mouse Office Right-hand USB Type-A Optical 2400 DPI
 25398,Trust,NEW,24.12,1,ON-SITE,Trust Bayo II - Ergonomic Wireless Mouse (white)
@@ -2097,6 +2533,11 @@ PVV532G600C30K,Patriot Memory,NEW,382.43,40,ON-SITE,RAM PATRIOT VIPER Venom DDR5
 25191,Trust,NEW,24.9,2,ON-SITE,Trust Kyna Active - stylus pen
 PH-XT523PSC_BK01,Phanteks,NEW,61.37,20,ON-SITE,Phanteks XT Silent Midi Tower Black
 PH-XT523V1_DBK01,Phanteks,NEW,62.98,18,ON-SITE,Phanteks XT VIEW Mid Tower Black
+1299803030,ROSIWIT,NEW,16.08,43,ON-SITE,External charging adapter Pilot One Rosiwit
+6153754685659,ROSIWIT,NEW,1929.57,18,ON-SITE,Cleaning robot Rosiwit Pilot One Neo
+6153754685659,ROSIWIT,NEW,1736.62,2,ON-SITE,Cleaning robot Rosiwit Pilot One Neo Unpacked
+1201203043,ROSIWIT,NEW,11.42,7,ON-SITE,Cleaning pad Pilot One Rosiwit
+1201203081,ROSIWIT,NEW,57.14,15,ON-SITE,Disc brush Pilot One Rosiwit
 VC-231G,Planet,NEW,114.22,2,ON-SITE,Planet VC-231G bridge/repeater 1000 Mbit/s Network bridge Black
 1U4L-GENOA/2T,Asrock,NEW,1958.23,1,ON-SITE,Asrock 1U4L-GENOA/2T server barebone AMD SoC LGA 6096 Rack (1U) Grey
 1U8S4E-GENOA/2T,Asrock,NEW,2320.98,1,ON-SITE,Asrock 1U8S4E-GENOA/2T server barebone SoC Gniazdo SP5 (LGA 6096) Rack (1U)
@@ -2116,6 +2557,7 @@ VC-231G,Planet,NEW,114.22,2,ON-SITE,Planet VC-231G bridge/repeater 1000 Mbit/s N
 6NR263Z36DR000ACJ10,Gigabyte,NEW,2635.83,2,ON-SITE,Gigabyte Rack Platform (2U) AMD R263-Z36
 6NS453S70MR000ABV1Z6,Gigabyte,NEW,3313.77,8,ON-SITE,Gigabyte Rack Platform (4U) Intel S453-S70-AAV1
 S1102-02,MSI,NEW,1761.56,1,ON-SITE,MSI Rack (1U) AMD S1102-02 Platform
+4X41K79635,Lenovo,NEW,13.29,296,ON-SITE,"Lenovo 4X41K79635 laptop case 39.6 cm (15.6"") Backpack Black"
 24981,Trust,NEW,33.76,1,ON-SITE,"Trust Avana - 16"" laptop backpack (40.6 cm), grey"
 KRMB0,Vention,NEW,14.6,1,ON-SITE,"Vention KRM 20l laptop backpack, black"
 KRNB0,Vention,NEW,21.16,1,ON-SITE,"Vention KRN 23l laptop backpack, black"
@@ -2125,6 +2567,7 @@ KROB0,Vention,NEW,15.96,1,ON-SITE,"Vention KRO 19l laptop backpack, black"
 KRLB0,Vention,NEW,15.67,1,ON-SITE,Vention KRL 27l BK waterproof laptop backpack
 KRPB0,Vention,NEW,22.48,2,ON-SITE,Vention KRP 18l BK waterproof laptop backpack
 KRRB0,Vention,NEW,17.37,2,ON-SITE,Vention KRR 20l BK waterproof laptop backpack
+460-BDQP,Dell,NEW,31.59,21,ON-SITE,"DELL CP5724S 39.6 cm (15.6"") Backpack Black"
 90MB1KV0-M0EAY0,ASUS,NEW,521.06,1,ON-SITE,ASUS PRO WS W880-ACE SE Intel W880 LGA 1851 (Socket V1) ATX
 B650M PRO RS,Asrock,NEW,108.93,2,ON-SITE,Asrock B650M Pro RS AMD B650 Socket AM5 micro ATX
 90MB1FU0-M0EAY0,ASUS,NEW,105.56,34,ON-SITE,ASUS TUF GAMING B650M-E AMD B650 Socket AM5 micro ATX
@@ -2545,6 +2988,7 @@ AKPH0,Vention,NEW,13.13,3,ON-SITE,Vention 2-Port Bi-Directional 8K HDMI Switcher
 A17633A1,ANKER,NEW,654.46,4,ON-SITE,Anker Solix C1000X Gen 2 portable power station 8 2000 W 113 g
 A1728311,ANKER,NEW,178.04,17,ON-SITE,Anker Solix C300X DC Portable power station 300 W 288WH
 A1782311,ANKER,NEW,1857.4,1,ON-SITE,Anker SOLIX F3000 portable power station Lithium Iron Phosphate (LiFePO4) 3600 W 41.5 kg
+4XD1C82055,Lenovo,NEW,68.63,8,ON-SITE,Lenovo 4XD1C82055 speakerphone PC USB Type-C Black
 PFA130-E,DAHUA,NEW,9.92,51,ON-SITE,Dahua Technology PFA130-E security camera accessory Junction box
 KIF6PVC305Q,Q-LANTEC,NEW,161.97,4,ON-SITE,"Q-LANTEC F/UTP cat.6A network cable, twisted pair, LSOH"
 KIS6ALSOH100DQ,Q-LANTEC,NEW,59.55,26,ON-SITE,"Q-LANTEC S/FTP cat.6A network cable, twisted pair, LSOH"
@@ -2563,6 +3007,13 @@ TS-464U-RP-8G,QNAP,NEW,1543.5,1,ON-SITE,"QNAP TS-464U-RP NAS Rack (1U) Intel® C
 TS-216G,QNAP,NEW,296.78,28,ON-SITE,QNAP TS-216G NAS/storage server Tower Cortex-A Cortex-A55 4 GB 0 TB White
 ts-233,QNAP,NEW,264.16,16,ON-SITE,QNAP TS-233 NAS/storage server Mini Tower Ethernet LAN White Cortex-A55
 TVS-675-8G,QNAP,NEW,1322.85,1,ON-SITE,QNAP TVS-675 NAS Tower ZhaoXin KaiXian KX-6000 KX-U6580 8 GB DDR4 0 TB QuTS hero Black
+QMC-IP17S,QUAD LOCK,NEW,33.5,2,ON-SITE,Quad Lock iPhone 17 Case Black
+QMC-IP17M,QUAD LOCK,NEW,32.43,2,ON-SITE,"Quad Lock MAG Case mobile phone case 16 cm (6.3"") Cover Black"
+QMC-IP17XL,QUAD LOCK,NEW,33.23,3,ON-SITE,"Quad Lock iPhone 17 Pro Max 6,9' Case Black"
+QMC-GS26U,QUAD LOCK,NEW,30.82,147,ON-SITE,Quad Lock MAG Etui Samsung Galaxy S26 Ultra
+QMC-GS25U,QUAD LOCK,NEW,33.5,7,ON-SITE,Quad Lock MAG Samsung Galaxy S25 Ultra
+QLM-ARM,QUAD LOCK,NEW,29.48,4,ON-SITE,"Quad Lock QLM-ARM Holder Mobile phone/Smartphone Black, Blue"
+QLM-OFM-PRO-2,QUAD LOCK,NEW,44.22,9,ON-SITE,"Quad Lock Bicycle handlebar mount, black"
 NVR1104HS-W-S2-CE,DAHUA,NEW,63.25,7,ON-SITE,Dahua Technology NVR1104HS-W-S2-CE 1U Black
 NVR4104HS-EI,DAHUA,NEW,85.49,6,ON-SITE,Network video recorder DAHUA NVR4104HS-EI Black
 NVR4108HS-4KS3,DAHUA,NEW,86.03,8,ON-SITE,Network video recorder DAHUA Technology NVR4108HS-4KS3 Black
@@ -2591,6 +3042,9 @@ RE300,TP-LINK,NEW,28.14,40,ON-SITE,TP-Link AC1200 Mesh Wi-Fi Range Extender
 RE305,TP-LINK,NEW,30.82,104,ON-SITE,TP-LINK AC1200 Wi-Fi Range Extender
 RE705X,TP-LINK,NEW,71.29,25,ON-SITE,TP-Link RE705X network extender Network transmitter & receiver White
 WT001OP,A-LAN,NEW,4.69,68,ON-SITE,Alantec WT001 wire connector RJ45 Transparent
+6151902153166,ROSIWIT,NEW,18200.75,4,ON-SITE,Rosiwit Skywalker 50 Professional scrubber robot + disc brush Grey
+SkyWalker 50-C,ROSIWIT,NEW,18200.75,6,ON-SITE,Rosiwit Skywalker 50 Professional scrubber robot + cylindrical brush Grey
+6151912878875,ROSIWIT,NEW,2600.1,10,ON-SITE,Rosiwit Skywalker 50 Docking station Grey
 U30 Air,ZTE Poland,NEW,89.78,125,ON-SITE,Router ZTE U30 Air
 U30 Air,ZTE Poland,NEW,89.78,60,ON-SITE,Router ZTE U30 Air
 FWA70-EU0102F,ZyXEL,NEW,372.25,2,ON-SITE,Zyxel Nebula FWA70 wireless router 2.5 Gigabit Ethernet 5G
@@ -2781,6 +3235,79 @@ NA-SYC1.WHITE,noctua,NEW,6.62,3,ON-SITE,Noctua NA-SYC1 4-PIN PWM hardware coolin
 NA-SYC1,noctua,NEW,8.46,6,ON-SITE,NOCTUA NA-SYC1 Y splitter 2 pc. for 4-Pin PWM
 90SKS000-M7BAN0,ASUS,NEW,41.54,3,ON-SITE,RS720A-E11/H100 GPU 90SKS000-M7BAN0
 MZ-V9P1T0CW,Samsung,NEW,236.09,3,ON-SITE,Samsung 990 PRO 1 TB M.2 PCI Express 4.0 NVMe V-NAND MLC
+SM-A165FZKBEUE,Samsung,NEW,116.39,28,ON-SITE,"Samsung Galaxy SM-A165F/DSB 17 cm (6.7"") Hybrid Dual SIM 4G USB Type-C 4 GB 128 GB 5000 mAh Black"
+SM-A165FZKBEUE,Samsung,NEW,86.29,1,ON-SITE,"Samsung Galaxy SM-A165F/DSB 17 cm (6.7"") Hybrid Dual SIM 4G USB Type-C 4 GB 128 GB 5000 mAh Black"
+SM-A165FLGBEUE,Samsung,NEW,116.39,38,ON-SITE,"Samsung Galaxy A16 17 cm (6.7"") Hybrid Dual SIM 4G USB Type-C 4 GB 128 GB 5000 mAh Green"
+SM-A175FLBBEUE,Samsung,NEW,139.23,27,ON-SITE,"Samsung Galaxy A17 17 cm (6.7"") Hybrid Dual SIM 4G USB Type-C 4 GB 128 GB 5000 mAh Light Blue"
+SM-A175FZABEUE,Samsung,NEW,139.23,22,ON-SITE,"Samsung Galaxy A17 17 cm (6.7"") Hybrid Dual SIM 4G USB Type-C 4 GB 128 GB 5000 mAh Grey"
+SM-A175FZKEEUE,Samsung,NEW,171.69,60,ON-SITE,"Samsung Galaxy A17 17 cm (6.7"") Hybrid Dual SIM 4G USB Type-C 8 GB 256 GB 5000 mAh Black"
+SM-A176BZBDEUE,Samsung,NEW,217.56,31,ON-SITE,"Samsung Galaxy A17 5G 17 cm (6.7"") Hybrid Dual SIM USB Type-C 8 GB 256 GB 5000 mAh Blue"
+SM-A176BZADEUE,Samsung,NEW,217.56,27,ON-SITE,"Samsung Galaxy A17 5G 17 cm (6.7"") Hybrid Dual SIM USB Type-C 8 GB 256 GB 5000 mAh Grey"
+SM-A176BZBAEUE,Samsung,NEW,147.08,30,ON-SITE,"Samsung Galaxy A17 5G 17 cm (6.7"") Hybrid Dual SIM Android 15 USB Type-C 4 GB 128 GB 5000 mAh Blue"
+SM-A176BZKDEUE,Samsung,NEW,217.56,137,ON-SITE,"Samsung Galaxy A17 5G 17 cm (6.7"") Hybrid Dual SIM USB Type-C 8 GB 256 GB 5000 mAh Black"
+SM-A176BZKDEUE,Samsung,NEW,217.56,70,ON-SITE,"Samsung Galaxy A17 5G 17 cm (6.7"") Hybrid Dual SIM USB Type-C 8 GB 256 GB 5000 mAh Black"
+SM-A266BZKBEUE,Samsung,NEW,182.8,27,ON-SITE,"Samsung Galaxy A26 17 cm (6.7"") Hybrid Dual SIM Android 15 5G USB Type-C 6 GB 128 GB 5000 mAh Black"
+SM-A266BLGBEUE,Samsung,NEW,150.08,1,ON-SITE,"Samsung Galaxy A26 17 cm (6.7"") Hybrid Dual SIM Android 15 5G USB Type-C 6 GB 128 GB 5000 mAh Mint colour"
+SM-A266BZWCEUE,Samsung,NEW,257.75,1,ON-SITE,"Samsung Galaxy A26 17 cm (6.7"") Hybrid Dual SIM Android 15 5G USB Type-C 8 GB 256 GB 5000 mAh White"
+SM-A346BLGAEUE,Samsung,NEW,188.94,1,ON-SITE,"Samsung Galaxy A34 5G 16.8 cm (6.6"") Hybrid Dual SIM Android 13 USB Type-C 6 GB 128 GB 5000 mAh Lime"
+SM-A356BZKBEUB,Samsung,NEW,222.67,173,ON-SITE,"Samsung Galaxy A35 5G 16.8 cm (6.6"") Hybrid Dual SIM Android 14 USB Type-C 6 GB 128 GB 5000 mAh Navy"
+SM-A366BZKBEUE,Samsung,NEW,242.07,170,ON-SITE,"Samsung Galaxy A36 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 6 GB 128 GB 5000 mAh Black"
+SM-A366BLVBEUE,Samsung,NEW,239.45,9,ON-SITE,"Samsung Galaxy A36 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 6 GB 128 GB 5000 mAh Lavender"
+SM-A366BLGBEUE,Samsung,NEW,234.66,1,ON-SITE,"Samsung Galaxy A36 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 6 GB 128 GB 5000 mAh Lime"
+SM-A366BZABEUB,Samsung,NEW,239.45,28,ON-SITE,"Samsung Galaxy A36 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 6 GB 128 GB 5000 mAh White"
+SM-A366BZKGEUE,Samsung,NEW,283.03,3,ON-SITE,Samsung Galaxy A36 5G
+SM-A366BLVGEUE,Samsung,NEW,275.84,49,ON-SITE,"Samsung Galaxy A36 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 8 GB 256 GB 5000 mAh Lavender"
+SM-A546BZWCEUB,Samsung,NEW,145.11,1,ON-SITE,"Samsung Galaxy A54 5G 16.3 cm (6.4"") Dual SIM Android 13 USB Type-C 8 GB 128 GB 5000 mAh AWESOME WHITE"
+SM-A566BZKAEUE,Samsung,NEW,317.02,174,ON-SITE,"Samsung Galaxy A56 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 8 GB 128 GB 5000 mAh Graphite"
+SM-A566BZAAEUE,Samsung,NEW,312.23,58,ON-SITE,"Samsung Galaxy A56 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 8 GB 128 GB 5000 mAh Light grey"
+SM-A566BZGAEUE,Samsung,NEW,304.82,29,ON-SITE,"Samsung Galaxy A56 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 8 GB 128 GB 5000 mAh Olive"
+SM-A566BLIAEUE,Samsung,NEW,317.9,1,ON-SITE,"Samsung Galaxy A56 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 8 GB 128 GB 5000 mAh Pink"
+SM-A566BZKCEUE,Samsung,NEW,348.4,1,ON-SITE,"Samsung Galaxy A56 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 8 GB 256 GB 5000 mAh Graphite"
+SM-A566BZKCEEE,Samsung,NEW,348.4,12,ON-SITE,"Samsung Galaxy A56 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 8 GB 256 GB 5000 mAh Graphite"
+SM-A566BZACEUE,Samsung,NEW,348.4,112,ON-SITE,"Samsung Galaxy A56 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 8 GB 256 GB 5000 mAh Light grey"
+SM-A566BZGCEUE,Samsung,NEW,360.6,6,ON-SITE,"Samsung Galaxy A56 17 cm (6.7"") Dual SIM Android 15 5G USB Type-C 8 GB 256 GB 5000 mAh Olive"
+SM-A576BDBHEUE,Samsung,NEW,474.34,19,ON-SITE,"Samsung Galaxy A57 5G 17 cm (6.7"") Dual SIM USB Type-C 12 GB 512 GB 5000 mAh (Icy Blue) Blue"
+SM-A576BZVHEUE,Samsung,NEW,474.34,14,ON-SITE,"Samsung Galaxy A57 5G 17 cm (6.7"") Dual SIM USB Type-C 12 GB 512 GB 5000 mAh Purple"
+SM-A576BDBHEUE,Samsung,NEW,469.54,75,ON-SITE,"Samsung Galaxy A57 5G 17 cm (6.7"") Dual SIM USB Type-C 12 GB 512 GB 5000 mAh Black"
+SM-A576BLBBEUE,Samsung,NEW,326.6,33,ON-SITE,"Samsung Galaxy A57 5G 17 cm (6.7"") Dual SIM Android 16.0 USB Type-C 8 GB 128 GB 5000 mAh Blue"
+SM-A576BZVBEUE,Samsung,NEW,304.82,19,ON-SITE,"Samsung Galaxy A57 5G 17 cm (6.7"") Dual SIM Android 16.0 USB Type-C 8 GB 128 GB 5000 mAh Lilac"
+SM-S921BZKGEUE,Samsung,NEW,439.51,1,ON-SITE,"Samsung Galaxy S24 15.8 cm (6.2"") Dual SIM 5G USB Type-C 8 GB 256 GB 4000 mAh Black"
+SM-S931BZKDEUE,Samsung,NEW,605.06,9,ON-SITE,"Samsung Galaxy S25 SM-S931B/DS 15.8 cm (6.2"") Dual SIM Android 15 5G USB Type-C 12 GB 128 GB 4000 mAh Black"
+SM-S931BZKGEUE,Samsung,NEW,629.25,1,ON-SITE,"Samsung Galaxy S25 SM-S931B/DS 15.8 cm (6.2"") Dual SIM Android 15 5G USB Type-C 12 GB 256 GB 4000 mAh Black"
+SM-S931BZSGEUB,Samsung,NEW,609.86,17,ON-SITE,"Samsung Galaxy S25 15.8 cm (6.2"") Dual SIM Android 15 5G USB Type-C 12 GB 256 GB 4000 mAh Silver"
+SM-S931BDBHEUE,Samsung,NEW,718.8,2,ON-SITE,"Samsung Galaxy S25 15.8 cm (6.2"") Dual SIM Android 15 5G USB Type-C 12 GB 512 GB 4000 mAh Navy"
+SM-S931BLBDEUE,Samsung,NEW,580.88,2,ON-SITE,"Samsung Galaxy S25 15.8 cm (6.2"") Dual SIM Android 15 5G USB Type-C 12 GB 128 GB 4000 mAh Blue"
+SM-S931BDBDEUE,Samsung,NEW,580.88,3,ON-SITE,"Samsung Galaxy S25 15.8 cm (6.2"") Dual SIM Android 15 5G USB Type-C 12 GB 128 GB 4000 mAh Navy"
+SM-S731BLBGEUB,Samsung,NEW,513.12,23,ON-SITE,"Samsung Galaxy S25 FE 6.7"" Dual SIM Android 16.0 5G USB Type-C 8 GB 256 GB 4900 mAh Blue"
+SM-S731BZKGEUE,Samsung,NEW,513.12,38,ON-SITE,"Samsung Galaxy S25 FE 5G 17 cm (6.7"") Dual SIM USB Type-C 8 GB 256 GB 4900 mAh Black"
+SM-S731BZWGEUE,Samsung,NEW,513.12,33,ON-SITE,"Samsung Galaxy S25 FE 5G 17 cm (6.7"") Dual SIM USB Type-C 8 GB 256 GB 4900 mAh White"
+SM-S938BZBHEUE,Samsung,NEW,1127.98,8,ON-SITE,"Samsung Galaxy S25 Ultra 17.5 cm (6.9"") Dual SIM Android 15 5G USB Type-C 12 GB 1 TB 5000 mAh Blue, Silver"
+SM-S942BZSHEUE,Samsung,NEW,709.21,1,ON-SITE,"Samsung Galaxy S26 SM-S942B/DS 16 cm (6.3"") Dual SIM Android 16.0 5G USB Type-C 12 GB 512 GB 4300 mAh Silver"
+SM-S942BZWHEUB,Samsung,NEW,709.21,16,ON-SITE,"Samsung Galaxy S26 16 cm (6.3"") Dual SIM Android 16.0 5G USB Type-C 12 GB 512 GB 4300 mAh White"
+SM-S948BZWDEUE,Samsung,NEW,902.91,1,ON-SITE,"Samsung Galaxy S26 Ultra 17.5 cm (6.9"") Dual SIM Android 16.0 5G USB Type-C 12 GB 256 GB 5000 mAh White"
+SM-S948BLBGEUE,Samsung,NEW,1079.61,2,ON-SITE,"Samsung Galaxy S26 Ultra 17.5 cm (6.9"") Dual SIM Android 16.0 5G USB Type-C 12 GB 512 GB 5000 mAh Blue"
+SM-S948BZWGEUE,Samsung,NEW,1065.01,5,ON-SITE,"Samsung Galaxy S26 Ultra 17.5 cm (6.9"") Dual SIM Android 16.0 5G USB Type-C 12 GB 512 GB 5000 mAh White"
+SM-S948BZSHEUE,Samsung,NEW,1241.71,9,ON-SITE,"Samsung Galaxy S26 Ultra SM-S948B/DS 17.5 cm (6.9"") Dual SIM Android 16.0 5G USB Type-C 16 GB 1 TB 5000 mAh Silver"
+SM-S947BZKDEUE,Samsung,NEW,750.39,2,ON-SITE,"Samsung Galaxy S26+ 17 cm (6.7"") Dual SIM Android 16.0 5G USB Type-C 12 GB 256 GB 4900 mAh Black"
+SM-S947BZVDEUE,Samsung,NEW,769.78,8,ON-SITE,"Samsung Galaxy S26+ 17 cm (6.7"") Dual SIM Android 16.0 5G USB Type-C 12 GB 256 GB 4900 mAh Violet"
+SM-S947BLBDEUE,Samsung,NEW,750.39,8,ON-SITE,"Samsung Galaxy S26+ 17 cm (6.7"") Dual SIM Android 16.0 5G USB Type-C 12 GB 256 GB 4900 mAh Blue"
+SM-S947BZWDEUE,Samsung,NEW,750.39,7,ON-SITE,"Samsung Galaxy S26+ 17 cm (6.7"") Dual SIM Android 16.0 5G USB Type-C 12 GB 256 GB 4900 mAh White"
+SM-S947BZKGEUE,Samsung,NEW,798.76,1,ON-SITE,"Samsung Galaxy S26+ 17 cm (6.7"") Dual SIM Android 16.0 5G USB Type-C 12 GB 512 GB 4900 mAh Black"
+SM-S947BLBGEUE,Samsung,NEW,798.76,3,ON-SITE,"Samsung Galaxy S26+ 17 cm (6.7"") Dual SIM Android 16.0 5G USB Type-C 12 GB 512 GB 4900 mAh Blue"
+SM-X130NZAAEUE,Samsung,NEW,118.53,155,ON-SITE,"Samsung SM-X130 64 GB 22.1 cm (8.7"") 4 GB Wi-Fi 5 (802.11ac) Grey"
+SM-X130NZSAEUE,Samsung,NEW,118.53,279,ON-SITE,"Samsung Galaxy Tab SM-X130 64 GB 22.1 cm (8.7"") 4 GB Wi-Fi 5 (802.11ac) Silver"
+SM-X135FZAEEUB,Samsung,NEW,183.85,77,ON-SITE,"Samsung Galaxy Tab A11 4G LTE-TDD & LTE-FDD 128 GB 22.1 cm (8.7"") 8 GB Wi-Fi 5 (802.11ac) Grey"
+SM-X236BZAREUE,Samsung,NEW,219.85,47,ON-SITE,"Samsung Galaxy Tab A11+ 5G 128 GB 27.9 cm (11"") 6 GB Wi-Fi 5 (802.11ac) Grey"
+SM-X230NZAPEUB,Samsung,NEW,222.02,164,ON-SITE,"Samsung Galaxy Tab A11+ 256 GB 27.9 cm (11"") 8 GB Wi-Fi 5 (802.11ac) Gray"
+SM-X230NZAPEUB,Samsung,NEW,227.47,166,ON-SITE,"Samsung Galaxy Tab A11+ (11"")"
+SM-X236BZSREUE,Samsung,NEW,217.67,98,ON-SITE,"Samsung A11+ 5G LTE-TDD & LTE-FDD 128 GB 27.9 cm (11"") 6 GB Wi-Fi 5 (802.11ac) Silver"
+SM-X110NZSAEUE,Samsung,NEW,77.72,1,ON-SITE,"Samsung Galaxy Tab SM-X110NZSAEUB tablet 64 GB 22.1 cm (8.7"") Mediatek 4 GB Wi-Fi 5 (802.11ac) Android 13 Silver"
+SM-X216BZAEEUB,Samsung,NEW,221.1,1,ON-SITE,"Samsung Galaxy Tab A9+ 5G LTE-TDD & LTE-FDD 128 GB 27.9 cm (11"") 8 GB Wi-Fi 5 (802.11ac) Graphite"
+SM-X520NZAREUE,Samsung,NEW,305.51,1,ON-SITE,"Samsung Galaxy Tab S10 FE Samsung Exynos 128 GB 27.7 cm (10.9"") 8 GB Wi-Fi 6 (802.11ax) Android 15 Grey"
+SM-X526BZAREEE,Samsung,NEW,397.98,32,ON-SITE,"Samsung Galaxy Tab S10 FE 5G Entreprise Edition Samsung Exynos LTE-TDD & LTE-FDD 128 GB 27.7 cm (10.9"") 8 GB Wi-Fi 6 (802.11ax) Grey"
+SM-X400NZAREUE,Samsung,NEW,245.12,7,ON-SITE,"Samsung Galaxy Tab S10 lite WiFi 128GB grau 27.7 cm (10.9"") 6 GB Wi-Fi 6 (802.11ax) Grey"
+SM-X400NZAREUE,Samsung,NEW,244.46,129,ON-SITE,"Samsung Galaxy Tab S10 lite WiFi 128GB grau 27.7 cm (10.9"") 6 GB Wi-Fi 6 (802.11ax) Grey"
+SM-F741BLGHEUE,Samsung,NEW,637.84,1,ON-SITE,"Samsung Galaxy Z Flip6 17 cm (6.7"") Dual SIM Android 14 5G USB Type-C 12 GB 512 GB 4000 mAh Mint colour"
 MZILG1T9HCJR-00A07,Samsung SemiConductor,NEW,1380.57,10,ON-SITE,"SSD Samsung PM1653 1.92TB 2.5"" SAS 24Gb/s MZILG1T9HCJR-00A07 (DWPD 1)"
 MZ7L3240HCHQ-00A07,Samsung SemiConductor,NEW,212.39,10,ON-SITE,"SSD Samsung PM893 240GB SATA 2.5"" MZ7L3240HCHQ-00A07 (DWPD 1)"
 MZ7L33T8HBLT-00A07,Samsung SemiConductor,NEW,1858.45,4,ON-SITE,"SSD Samsung PM893 3.84TB SATA 2.5"" MZ7L33T8HBLT-00A07 (DWPD 1)"
@@ -2795,6 +3322,9 @@ M321R2GA3BB6-CQK,Samsung SemiConductor,NEW,796.48,3,ON-SITE,Samsung RDIMM 16GB D
 M321R4GA0BB0-CQK,Samsung SemiConductor,NEW,915.21,1,ON-SITE,Samsung RDIMM 32GB DDR5 4800MHz M321R4GA0BB0-CQK
 M321R4GA3PB0-CWM,Samsung SemiConductor,NEW,1168.17,3,ON-SITE,Samsung M321R4GA3PB0-CWM memory module 32 GB 1 x 32 GB DDR5 ECC
 M321R8GA0PB0-CWM,Samsung SemiConductor,NEW,2654.94,5,ON-SITE,Samsung M321R8GA0PB0-CWM memory module 64 GB 1 x 64 GB DDR5 5600 MHz ECC
+SM-S938BZBDEUE,Samsung,NEW,798.76,5,ON-SITE,"Samsung Galaxy S25 Ultra 17.5 cm (6.9"") Dual SIM Android 15 5G USB Type-C 12 GB 256 GB 5000 mAh Blue, Silver"
+SM-S938BZDHEUE,Samsung,NEW,1127.98,17,ON-SITE,"Samsung Galaxy S25 Ultra SM-S938B/DS 17.5 cm (6.9"") Dual SIM Android 15 5G USB Type-C 12 GB 1 TB 5000 mAh Pink gold"
+SM-S938BZGDEUE,Samsung,NEW,813.36,21,ON-SITE,"Samsung Galaxy S25 Ultra SM-S938B/DS 17.5 cm (6.9"") Dual SIM Android 15 5G USB Type-C 12 GB 256 GB 5000 mAh Green"
 M425R2GA3BB0-CWM,Samsung SemiConductor,NEW,236.52,7,ON-SITE,Samsung SO-DIMM 16GB DDR5 1Rx8 5600MHz PC5-44800 M425R2GA3BB0-CWM
 M425R4GA3BB0-CWM,Samsung SemiConductor,NEW,341.16,2,ON-SITE,Samsung SO-DIMM 32GB DDR5 2Rx8 5600MHz PC5-44800 M425R4GA3BB0-CWM
 M425R4GA3BB0-CWM,Samsung SemiConductor,NEW,391.62,28,ON-SITE,Samsung SO-DIMM 32GB DDR5 2Rx8 5600MHz PC5-44800 M425R4GA3BB0-CWM
@@ -2855,6 +3385,11 @@ SDSQUAB-064G-GN6MA,SanDisk,NEW,19.29,114,ON-SITE,Western Digital SDSQUAB-064G-GN
 SDSDUNR-032G-GN3IN,SanDisk,NEW,13.67,20,ON-SITE,SanDisk Ultra 32GB SDHC Mem Card 100MB/s memory card UHS-I Class 10
 SDSDUNR-128G-GN3IN,SanDisk,NEW,26.53,31,ON-SITE,SanDisk Ultra memory card 128 GB SDXC UHS-I
 SDSDUNR-064G-GN3IN,SanDisk,NEW,17.42,28,ON-SITE,SanDisk Ultra memory card 64 GB SDXC UHS-I Class 10
+STKY1000400,Seagate,NEW,85.49,80,ON-SITE,"Seagate One Touch STKY1000400 external hard drive 1 TB 2.5"" Micro-USB B 3.2 Gen 1 (3.1 Gen 1) Black"
+STKY2000400,Seagate,NEW,112.29,80,ON-SITE,Seagate One Touch external hard drive 2 TB Micro-USB B 3.2 Gen 1 (3.1 Gen 1) Black
+STKZ4000402,Seagate,NEW,151.42,30,ON-SITE,"Seagate One Touch STKZ4000402 external hard drive 4 TB 2.5"" Micro-USB B 2.0/3.2 Gen 1 (3.1 Gen 1) Black"
+STKZ5000402,Seagate,NEW,170.17,23,ON-SITE,"Seagate One Touch STKZ5000402 external hard drive 5 TB 2.5"" Micro-USB B 3.2 Gen 1 (3.1 Gen 1) Blue"
+STKK8000400,Seagate,NEW,267.73,8,ON-SITE,Seagate FireCuda Gaming Hub external hard drive 8 TB Micro-USB B / USB Type-A / USB Type-C 3.2 Gen 1 (3.1 Gen 1) Black
 ST1000LM048,Seagate,NEW,151.33,10,ON-SITE,"Seagate BarraCuda internal hard drive 1 TB 5400 RPM 128 MB 2.5"" Serial ATA III (ST1000LM048)"
 ST10000NM017B,Seagate,NEW,666.24,10,ON-SITE,"Seagate Exos ST10000NM017B internal hard drive 3.5"" 10 TB Serial ATA III"
 ST4000NM000B,Seagate,NEW,287.38,10,ON-SITE,"Seagate Exos ST4000NM000B internal hard drive 3.5"" 4 TB Serial ATA III"
@@ -2937,6 +3472,7 @@ RZ04-03750300,RAZER,NEW,36.18,4,ON-SITE,Razer Kraken V3 X RGB Wired Black - wire
 25275,Trust,NEW,13.13,2,ON-SITE,Trust Nouna Headset Wired & Wireless Head-band Calls/Music USB Type-C Bluetooth Blue
 21665,Trust,NEW,6.18,6,ON-SITE,Trust Primo - chat headset (black)
 981-000100,Logitech,NEW,14.83,4,ON-SITE,Logitech 960 USB Computer Headset
+WGM-SEV011,AC,NEW,428.52,2,ON-SITE,Single post for STAG EV charger with socket
 SRWAAARAC0206,Action,NEW,2850.4,2,ON-SITE,Solar E 110 S10 4245P/16GB/2x480SSD/500W
 SRWAAARAC0080,Action,NEW,2807.38,1,ON-SITE,"Solar E 110 S10 E-2436/32GB/4x3,84NVMe/350W/3Y D2D"
 24482,Trust,NEW,21.17,2,ON-SITE,Trust GXT 620 Axon Black 2.0 channels 12 W
@@ -3037,9 +3573,16 @@ WDS480G3G0B-00BJF0,WD,NEW,119.26,2,ON-SITE,Western Digital Green WDS480G3G0B 480
 WDS200T4G0E-00CPS0,WD,NEW,208.77,861,ON-SITE,Western Digital Green WD ™ SN3000 NVMe™ SSD POWERED BY SANDISK 2 TB
 WDS500G4G0E-00CPS0,WD,NEW,88.97,427,ON-SITE,Western Digital Green WD ™ SN3000 NVMe™ SSD POWERED BY SANDISK 500 GB
 VTO2202F-P-S3,DAHUA,NEW,112.55,3,ON-SITE,Dahua Technology VTO2202F-P-S3 video intercom system 2 MP Silver
+DELL-WD25Z,Dell,NEW,164.5,3,ON-SITE,DELL Pro Dock WD25Z Wired USB 3.2 Gen 2 (3.1 Gen 2) Type-C Black
+40BD0065EU,Lenovo,NEW,67.76,2,ON-SITE,Lenovo X9 Charging GaN Dock Wired USB 3.2 Gen 2 (3.1 Gen 2) Type-C Grey
 TQVHB,Vention,NEW,62.58,1,ON-SITE,Vention 9-in-1 MST USB-C 4K 100W 5Gbps docking station
 TGUHB,Vention,NEW,23.86,2,ON-SITE,Vention USB-C 8-in-1 4K 60Hz 100W docking station
 TGVHB,Vention,NEW,31.2,5,ON-SITE,Vention USB-C 9-in-1 4K 60Hz 100W docking station
+WEV-EVCORE-BZK,AC,NEW,495.53,5,ON-SITE,STAG EV CORE Charging Station (without charging cable)
+WEV-EVCORE-BZK-230,AC,NEW,535.72,5,ON-SITE,STAG EV CORE Charging Station (without charging cable/230V)
+WEV-EVCORE-230,AC,NEW,642.93,5,ON-SITE,STAG EV CORE Charging Station (charging cable / 230 V socket)
+WEV-EVCORE-PLUS,AC,NEW,642.93,8,ON-SITE,"STAG EV CORE Charging Station (Charging Cable) White, Graphite"
+WEV-EVCORE,AC,NEW,589.32,9,ON-SITE,"STAG EV CORE Charging Station (Charging Cable) White, Graphite"
 HZ-SPEED 9.1,huzaro,NEW,90.85,2,ON-SITE,Huzaro Speed 9.1 television stand
 MA-XENO 2.1,MARK ADLER,NEW,80.93,2,ON-SITE,Xeno 2.1 Electric Bas
 MA-XENO 4.1 BLACK,MARK ADLER,NEW,104.25,1,ON-SITE,Xeno 4.1 Black Electric Base
@@ -3270,6 +3813,7 @@ Deco X50(2-pack),TP-LINK,NEW,151.68,13,ON-SITE,"TP-Link AX3000 Whole Home Mesh W
 DECO X50(3-PACK),TP-LINK,NEW,216.81,66,ON-SITE,"TP-Link AX3000 Whole Home Mesh WiFi 6 System, 3-Pack"
 DECO X50-POE(1-PACK),TP-LINK,NEW,102.37,32,ON-SITE,TP-Link AX3000 Whole Home Mesh Wi-Fi 6 Unit with PoE
 DecoBE25(3-pack),TP-LINK,NEW,254.6,14,ON-SITE,TP-Link BE3600 Whole Home Mesh Wi-Fi 7 System(3-Pack)
+NP05J/16GB,REDMAGIC,NEW,734.05,3,ON-SITE,Redmagic Astra Eclipse - 16/512GB gaming tablet with a 9.06-inch display (graphite)
 TAC-2SAGITTA20,TACENS,NEW,45.82,1,ON-SITE,Tacens 2SAGITTA20 computer case Midi Tower Black
 TACANIMA-APB550,TACENS,NEW,27.99,264,ON-SITE,Tacens APB550B power supply unit 550 W 20+4 pin ATX ATX Black
 TACANIMA-APB650,TACENS,NEW,37.46,32,ON-SITE,Tacens Anima APB650 power supply unit 650 W 24-pin ATX ATX Black
@@ -3314,8 +3858,12 @@ TACMARS-MPB850SI,TACENS,NEW,59.5,7,ON-SITE,Mars Gaming MPB850SI power supply uni
 TAC1VV800M-80+SILVER,TACENS,NEW,63.88,6,ON-SITE,"TACENS VALEO V 800M 800W DC-DC, ATX 3.1 PCIe 5.1"
 PAEWH,Vention,NEW,13.59,3,ON-SITE,"Vention Silicone Neon LED strip with remote control, 12V, 2m"
 PAEWJ-EU,Vention,NEW,25.65,4,ON-SITE,"Vention Silicone Neon LED strip with IR remote control and 12V DC power supply, 5m"
+146066,No name,NEW,56.28,2,ON-SITE,"tecXL Lenovo ThinkVision T24i - LED-Monitor - (24"")"
+KX-TG1611PDH,Panasonic,NEW,25.46,145,ON-SITE,Panasonic KX-TG1611 telephone DECT telephone Black Caller ID
+KX-TG2512PDT,Panasonic,NEW,57.62,22,ON-SITE,Panasonic KX-TG2512 DECT telephone Grey Caller ID
 EX3-3pack,Tenda,NEW,81.55,10,ON-SITE,Tenda EX3-3 mesh wi-fi system Dual-band (2.4 GHz / 5 GHz) Wi-Fi 6 (802.11ax) White 1 Internal
 MW3 2pack,Tenda,NEW,30.02,18,ON-SITE,Tenda MW3 Dual-band (2.4 GHz / 5 GHz) Wi-Fi 5 (802.11ac) White 2
+6AGC128172,ABB,NEW,669.72,22,ON-SITE,"ABB Terra AC W22-G5-R-C-V2-0 wallbox Typ 2, 22kW, Black, Grey"
 Archer MR200,TP-LINK,NEW,73.43,27,ON-SITE,TP-Link Archer MR200 wireless router Fast Ethernet Dual-band (2.4 GHz / 5 GHz) 4G Black
 Archer T2U,TP-LINK,NEW,9.11,130,ON-SITE,TP-LINK Archer T2U V3 WLAN 433 Mbit/s
 C50,TP-LINK,NEW,23.05,44,ON-SITE,TP-Link AC1200 Wireless Dual Band WiFi Router
@@ -3394,12 +3942,15 @@ CP900EPFCLCD,CyberPower,NEW,190.27,2,ON-SITE,CyberPower CP900EPFCLCD uninterrupt
 PR1000ELCD,CyberPower,NEW,401.73,2,ON-SITE,CyberPower PR1000ELCD uninterruptible power supply (UPS) Line-Interactive 1 kVA 900 W 8 AC outlet(s)
 PR750ELCD,CyberPower,NEW,267.73,4,ON-SITE,CyberPower PR750ELCD uninterruptible power supply (UPS) Line-Interactive 0.75 kVA 675 W 6 AC outlet(s)
 T/EASYTO-000K85/00,Ever,NEW,100.5,16,ON-SITE,Ever EASYLINE 850 AVR USB Line-Interactive 0.85 kVA 480 W 2 AC outlet(s)
+N3409PVNB3530EMEA01,Dell,NEW,474.89,1,ON-SITE,"DELL Vostro 3530 Intel® Core™ i5 i5-1334U Laptop 39.6 cm (15.6"") Full HD 8 GB DDR4-SDRAM 512 GB SSD Wi-Fi 5 (802.11ac) Windows 11 Pro Black"
 V12P15 EU,OHAUS,NEW,160.53,1,ON-SITE,OHAUS Valor™ 1000 V12P15 EU compact scale
 V12P30 EU,OHAUS,NEW,160.53,2,ON-SITE,OHAUS Valor™ 1000 V12P30 EU compact scale
 CR2200,OHAUS,NEW,33.23,2,ON-SITE,OHAUS Compass™ CR CR2200 portable scale
 CR621,OHAUS,NEW,38.06,1,ON-SITE,OHAUS Compass™ CR CR621 portable scale
 CX621,OHAUS,NEW,62.71,2,ON-SITE,OHAUS Compass™ CX CX621 portable scale
 YA501,OHAUS,NEW,28.95,3,ON-SITE,OHAUS YA Gold Portable Scale YA501
+"4,240,187",Fronius,NEW,803.73,8,ON-SITE,Fronius Wattpilot Flex Home 22 C6 - electric car charging station
+"4,240,404",Fronius,NEW,667.04,9,ON-SITE,Fronius Wattpilot Home 11 J 2.0 Wallbox - electric car charging station
 WDS100T5B0E-00CPE0,WD,NEW,143.38,1207,ON-SITE,Western Digital 1TB WD Blue® SN5100 NVMe™ SSD
 NF-A9PWMCH.BK.S,noctua,NEW,21.07,1,ON-SITE,Noctua NF-A9 PWM CH.BK.S computer cooling component Computer case Fan 9.2 cm Black
 NF-F12 IPPC-3000 PWM,noctua,NEW,25.3,50,ON-SITE,"Noctua NF-F12 industrialPPC-3000 PWM Computer case Fan 12 cm Black, Brown"
@@ -3523,6 +4074,11 @@ RE225BE,TP-LINK,NEW,79.86,12,ON-SITE,TP-Link RE225BE network extender Network re
 RE405BE,TP-LINK,NEW,144.72,11,ON-SITE,TP-Link RE405BE network extender Network repeater White 2500 Mbit/s
 RE505X,TP-LINK,NEW,46.9,81,ON-SITE,TP-LINK AX1500 Wi-Fi Range Extender
 RE550,TP-LINK,NEW,46.9,27,ON-SITE,"TP-Link RE550 network extender Network transmitter & receiver White 10, 100, 1000 Mbit/s"
+MZB0MN4EU,Xiaomi,NEW,1104.15,9,ON-SITE,"Xiaomi 17 Ultra 17.5 cm (6.9"") 5G 16 GB 512 GB 6000 mAh Black"
+MZB0I8BEU,Xiaomi,NEW,211.72,1,ON-SITE,"Xiaomi Redmi Note 14 Pro 5G 16.9 cm (6.67"") Dual SIM USB Type-C 8 GB 256 GB 5110 mAh Black"
+83JR008NPB,Lenovo,NEW,774.58,69,ON-SITE,"Lenovo Yoga 7 2-in-1 14AKP10 Copilot+ PC AMD Ryzen AI 5 340 Hybrid (2-in-1) 35.6 cm (14"") Touchscreen WUXGA 16 GB LPDDR5-SDRAM 512 GB SSD Wi-Fi 7 (802.11be) Windows 11 Home Teal"
+83JY006MPB,Lenovo,NEW,774.58,17,ON-SITE,"Lenovo Yoga Slim 7 14AKP10 Ryzen AI 5 340 14"" WUXGA OLED 400 nits 60 Hz Glossy 16 GB LPDDR5-6400 512 GB SSD Radeon 840M Graphics 1080p webcam 70 Wh Win11 Tidal Teal"
+GX20Z46271,Lenovo,NEW,34.87,19,ON-SITE,Lenovo GX20Z46271 power adapter/inverter Indoor/outdoor Black
 AEROLUX-550-80BRONZE,Aerocool,NEW,43.18,4,ON-SITE,Aerocool LUX 550W power supply unit 20+4 pin ATX ATX Black
 AEROLUX-850-80BRONZE,Aerocool,NEW,71.76,2,ON-SITE,Aerocool LUX850 PC Power Supply 850W 80 Plus Bronze 230V 88% Efficiency Black
 AEROPGSLUXRGB-550,Aerocool,NEW,42.08,4,ON-SITE,Power supply Aerocool Lux RGB 550M 550 W Black
@@ -3715,6 +4271,7 @@ NM-I17XX-MP83,noctua,NEW,6.79,15,ON-SITE,Noctua NM-I17XX-MP83 computer cooling s
 NCAB0,Vention,NEW,88.47,1,ON-SITE,Set of 2 Vention USB-C microphones + charging case
 GQE20A-G5003UN,ASUS,NEW,2957.8,6,ON-SITE,Asus Google Met Home GQE20A-G5003UN set
 90MS02U2-M00040,ASUS,NEW,3597.77,1,ON-SITE,Asus Google Met Home GQE20A-G5004UN Set
+580-AIWM,Dell,NEW,62.75,99,ON-SITE,"DELL KM7120W keyboard RF Wireless + Bluetooth QWERTY US International Grey, Titanium"
 22901,FAAC,NEW,129.98,1,ON-SITE,FAAC D1000 garage door kit with 3m two-piece Kevlar rail
 920-007931,Logitech,NEW,20.37,44,ON-SITE,Logitech MK235 keyboard Mouse included USB QWERTY US International Grey
 920-008226,Logitech,NEW,104.55,18,ON-SITE,Logitech MK850 keyboard RF Wireless + Bluetooth QWERTY US International Black
